@@ -1,0 +1,45 @@
+name: ChiangMaiHistory
+options:
+  bundleIdPrefix: com.chiangmaihistory
+  deploymentTarget:
+    iOS: "16.0"
+  createIntermediateGroups: true
+
+packages:
+  GoogleMaps:
+    url: https://github.com/googlemaps/ios-maps-sdk
+    from: 9.0.0
+
+targets:
+  ChiangMaiHistory:
+    type: application
+    platform: iOS
+    sources:
+      - Sources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.chiangmaihistory.app
+        DEVELOPMENT_TEAM: 8QRPSHGVVY
+        CODE_SIGN_STYLE: Automatic
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1"
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: "YES"
+        INFOPLIST_KEY_UILaunchScreen_Generation: "YES"
+    info:
+      path: Generated-Info.plist
+      properties:
+        CFBundleDisplayName: "치앙마이 역사"
+        NSLocationWhenInUseUsageDescription: "여행 중 근처 유적지에 접근하면 역사 정보를 알려드리기 위해 위치 정보가 필요합니다."
+        NSLocationAlwaysAndWhenInUseUsageDescription: "앱을 사용하지 않는 동안에도 근처 유적지에 접근하면 알림으로 역사 정보를 알려드리기 위해 위치 정보가 필요합니다."
+        UIBackgroundModes:
+          - location
+        UIRequiredDeviceCapabilities:
+          - location-services
+    dependencies:
+      - package: GoogleMaps
+        product: GoogleMaps
+    scheme:
+      testTargets: []
+      gatherCoverageData: false
