@@ -219,7 +219,7 @@
 | `first_church_chiang_mai_founding` | UNESCO WHTL 6003 | 까윌로롯 가문이 맥길바리에게 부지 하사, 키니네·천연두 백신 도입 |
 | `chiang_man_name_meaning` | UNESCO WHTL 6003, 왓 치앙만 1592년 석비 | 망라이왕의 임시 거처를 사원으로 헌정, 도시 내 최초 사원 |
 | `kawila_re_entry_procession_1797` | UNESCO WHTL 6003 | 꾸에나 왕 시대부터의 "도시 머리의 문"(창프+악)으로 입성, 란나 역대 왕 정장 착용 |
-| `pratu_saen_pung` (사이트, 신규 키워드 없음) | UNESCO WHTL 6003 | 쌘 뿡 문은 "빠뚜 하이야"로도 불리며 하이야 화장터로 이어짐 |
+| `pratu_saen_pung_haiya_name` | UNESCO WHTL 6003 | 쌘 뿡 문은 "빠뚜 하이야"로도 불리며 하이야 화장터로 이어짐 |
 
 ## 이 세션에서 확인된 신규 논문 (독립 출처)
 

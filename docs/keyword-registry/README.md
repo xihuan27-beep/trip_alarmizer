@@ -8,16 +8,53 @@ ChiangMaiHistory 앱의 콘텐츠 "모아트(moat)" 구축 작업 — 35편의 �
 
 ## 스키마
 
+**마크다운(사람이 읽는 원본, 계속 여기서 편집)**과 **SQLite(빌드 산출물, 앱/쿼리용)** 두 형태로 존재합니다.
+
 - **Table A — 키워드 마스터** ([keywords-table-a.md](./keywords-table-a.md)): `keyword_id`, 한국어, ไทย, English, 타입. 키워드 1개 = 행 1개, 중복 없이 딱 한 번만 존재.
-- **Table B — 사이트 마스터**: `Sources/Resources/sites.json`을 그대로 재사용 (별도 파일 없음). `site_id`로 조인.
+- **Table B — 사이트 마스터**: `Sources/Resources/sites.json`을 그대로 재사용 (별도 마크다운 파일 없음). SQLite 빌드 시 `sites` 테이블로 그대로 미러링됨.
 - **Table C — 키워드-사이트 연결** ([site-links-table-c.md](./site-links-table-c.md)): `keyword_id`, `site_id`, 관계 한줄. 키워드 하나가 여러 사이트에 걸릴 수 있음(예: 크루바 시위차이 관련 키워드가 여러 절에 걸림).
 - **Table D — 키워드-근거** ([sources-table-d.md](./sources-table-d.md)): `keyword_id`, 출처, 주장 내용. 같은 키워드에 대해 여러 출처가 각기 다른(때로는 상충하는) 내용을 주장할 수 있어, 키워드당 여러 행 존재 가능.
 
-### 조인 예시
+### SQLite 빌드 ([build_db.py](./build_db.py) → `content.sqlite`)
+
+마크다운 3개 파일 + `sites.json`을 파싱해 `content.sqlite`를 생성합니다. **마크다운이 유일한 소스**이고, `.sqlite` 파일은 빌드 산출물이라 매번 통째로 재생성됩니다(직접 편집 금지).
+
+```bash
+cd docs/keyword-registry
+python3 build_db.py     # content.sqlite 재생성 + FK 무결성 검증 + 충돌후보 리포트
 ```
-사이트 하나의 콘텐츠 작성:  site_id → Table C → keyword_id 목록 → Table A(번역) + Table D(근거)
-키워드 하나의 교차 사이트:  keyword_id → Table C → site_id 목록 (사이트 B에서 번역 가져옴)
-학술 충돌 탐지:            Table D를 keyword_id로 그룹핑해 COUNT(*) > 1인 것 확인
+
+스키마(4테이블 + FK + 인덱스):
+```sql
+sites(site_id PK, name, name_thai, latitude, longitude, radius_meters, category, year_built, teaser, story)
+keywords(keyword_id PK, ko, th, en, type, type_detail, is_orphan)
+site_links(id PK, keyword_id FK→keywords, site_id FK→sites, relation)
+sources(id PK, keyword_id FK→keywords, source, claim)
+```
+`type`은 README 하단의 6종 카테고리로 정규화되고, 원본 세부 태그(예: "전설모티프(지명)")는 `type_detail`에 보존됩니다. `is_orphan=1`은 아직 대응 사이트가 없는 "확장 후보" 키워드.
+
+### 조인 예시
+```sql
+-- 사이트 하나의 콘텐츠 작성
+SELECT k.*, sl.relation, src.source, src.claim
+FROM site_links sl
+JOIN keywords k ON k.keyword_id = sl.keyword_id
+LEFT JOIN sources src ON src.keyword_id = k.keyword_id
+WHERE sl.site_id = 'wat_chiang_man';
+
+-- 키워드 하나의 교차 사이트(related-story 추천)
+SELECT s.site_id, s.name FROM site_links sl
+JOIN sites s ON s.site_id = sl.site_id
+WHERE sl.keyword_id = 'tiger_signature';
+
+-- 학술 충돌 후보 (출처 2개 이상)
+SELECT keyword_id, COUNT(*) c FROM sources
+GROUP BY keyword_id HAVING c > 1 ORDER BY c DESC;
+
+-- 아직 키워드가 하나도 안 걸린 사이트 (코퍼스 처리 갭 확인)
+SELECT s.site_id, s.name FROM sites s
+LEFT JOIN site_links sl ON sl.site_id = s.site_id
+WHERE sl.site_id IS NULL;
 ```
 
 ## 타입 분류 (6종)

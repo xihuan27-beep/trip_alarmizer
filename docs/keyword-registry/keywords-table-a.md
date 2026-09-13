@@ -78,6 +78,7 @@
 | keyword_id | 한국어 | ไทย | English | 타입 |
 |---|---|---|---|---|
 | `wat_phra_singh_market_origin` | 왓 프라싱 자리가 원래 시장이었다는 기록 | วัดพระสิงห์เคยเป็นที่ตั้งตลาดมาก่อน | Wat Phra Singh site was formerly a marketplace | 개념·전거 |
+| `khruba_srivichai_first_arrest_dating` | 크루바 시위차이 첫 구금 시기·원인 학술 논쟁 | ข้อถกเถียงเรื่องปีและสาเหตุการจับกุมครูบาศรีวิชัยครั้งแรก | Scholarly dispute over the date and cause of Srivichai's first arrest | 사건·날짜 |
 | `khruba_srivichai_phra_singh_abbot` | 크루바 시위차이, 왓 프라싱의 사실상 주지 (다라 라사미의 직접 위촉) | ครูบาศรีวิชัยเป็นเจ้าอาวาสโดยพฤตินัยวัดพระสิงห์ | Srivichai served as de facto abbot of Wat Phra Singh, appointed by Dara Rasami | 인물 |
 | `khruba_srivichai_sword_charge` | 크루바 시위차이, '황금 칼집 마법검' 소지 혐의 | ข้อกล่าวหาครอบครองดาบวิเศษฝักทอง | Srivichai charged with possessing a magic sword implying rebellion | 사물·유물 |
 | `khruba_srivichai_1935_disrobing_crisis` | 1935-36년 승려 대량 강제 환속 사태 | วิกฤตบังคับสึกพระ-เณรครั้งใหญ่ พ.ศ. 2478-2479 | 1935-36 mass forced disrobing of ~1,000 monks ordained by Srivichai | 사건·날짜 |
@@ -155,6 +156,7 @@
 |---|---|---|---|---|
 | `kawila_re_entry_procession_1797` | 까윌라 왕의 1797년(3월 9일 목) 치앙마이 재입성 의식 | ขบวนเสด็จเข้าเมืองเชียงใหม่ของพญากาวิละ พ.ศ. 2340 | Kawila's ceremonial 1797 re-entry (Thu, 9 Mar), the 500th anniversary of Mangrai's founding | 사건·날짜 *(비고: `kawila_1797_restoration_exact_date` 통합됨 — 정확한 날짜 근거 추가)* |
 | `chang_phueak_statues` | 창 프+악(백상) 석상의 유래와 재명명 | รูปปั้นช้างเผือกหน้าประตูช้างเผือก ที่มาและการตั้งชื่อใหม่ | Chang Phueak (white elephant) statues, renamed with cosmological titles by Kawila (1801) | 전설모티프 |
+| `kawila_kep_phak_sai_sa_policy` | 카윌라의 "채소는 바구니에, 사람은 도시에" 강제이주 정책 | นโยบาย "เก็บผักใส่ซ้า เก็บข้าใส่เมือง" ของพญากาวิละ | Kawila's "put vegetables in baskets, put people in cities" forced-resettlement policy | 개념·제도 |
 
 ## 도이수텝 (Doi Suthep)
 
@@ -175,6 +177,12 @@
 | `jaeng_sri_phum_sabotage` | 짼 스리 품 — 버마 승려의 '신성한 사보타주'(1465) | แจ่งศรีภูมิ กับการก่อวินาศกรรมทางความเชื่อโดยพระพม่า | Tilokarat tore down the NE wall corner (1465) at a Burmese monk's instigation | 사건·날짜 |
 | `chiang_mai_wall_moat_phases` | 치앙마이 성벽·해자의 시대별 변천 | วิวัฒนาการกำแพงเมืองและคูเมืองเชียงใหม่ | Chiang Mai's walls evolved through several construction phases | 사물·유물 |
 | `jaeng_sri_phum_spirit_medium_relocation` | 인타킨 의식의 영매 부분이 짼 스리 품으로 이전(1960년대) | การย้ายพิธีทรงเจ้าของพิธีอินทขีลไปแจ่งศรีภูมิในทศวรรษ 2500 | The Inthakhin ceremony's spirit-mediumship rites were relegated to Jaeng Sri Phum in the 1960s | 사건·날짜 |
+
+## 왓 꾸따오 (Wat Ku Tao)
+
+| keyword_id | 한국어 | ไทย | English | 타입 |
+|---|---|---|---|---|
+| `ku_tao_gourd_name` | 꾸 따오(호리병) 이름의 유래 | ที่มาชื่อวัดกู่เต้าจากเจดีย์รูปน้ำเต้า | Wat Ku Tao name from gourd-shaped chedi | 전설모티프 |
 
 ## 왓 체디 루앙 (Wat Chedi Luang)
 
@@ -209,6 +217,12 @@
 | `chet_lin_khun_wiranka_legend` | 쳇 린 — 라와족 왕 쿤 위랑카의 전설(군사적 패배 버전) | ตำนานขุนวิรังคะที่แจ่งลิ้น | Legendary Lawa King Wiranka's failed proposal and military defeat at Chet Lin | 전설모티프 *(⚠ camadevi_wiranga_spear_contest와 충돌)* |
 | `chiang_mai_gate_former_name` | 치앙마이 문의 옛 이름 '빠뚜 따이 위앙' | ประตูเชียงใหม่ เดิมชื่อประตูท้ายเวียง | Chiang Mai Gate (SE) was formerly called Pratu Tai Wiang | 장소 |
 | `first_church_chiang_mai_founding` | 치앙마이 최초 교회 부지 하사 | ที่ดินพระราชทานสร้างคริสตจักรแห่งแรกในเชียงใหม่ | McGilvary given land for the first church; introduced quinine and smallpox vaccination | 사건·날짜 |
+
+## 쌘 뿡 문 (Pratu Saen Pung)
+
+| keyword_id | 한국어 | ไทย | English | 타입 |
+|---|---|---|---|---|
+| `pratu_saen_pung_haiya_name` | 쌘 뿡 문의 옛 이름 '빠뚜 하이야'(화장터 가는 문) | ประตูแสนปุงเดิมชื่อประตูหายยา | Pratu Saen Pung's former name "Pratu Haiya," leading to the Haiya cremation ground | 장소 |
 
 ## 옛 람푼길 (Old Lamphun Road)
 

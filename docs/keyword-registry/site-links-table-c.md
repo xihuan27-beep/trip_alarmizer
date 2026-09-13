@@ -142,6 +142,8 @@
 | `kawila_re_entry_procession_1797` | `wat_chiang_man` | 까윌라가 왕궁 입성 전날 밤을 보낸 곳 |
 | `kawila_re_entry_procession_1797` | `chang_puak_gate` | 까윌라가 실제로 통과해 입성한 성문 |
 | `chang_phueak_statues` | `chang_puak_gate` | 성문 이름 자체의 유래(백상 석상) |
+| `kawila_kep_phak_sai_sa_policy` | `wat_chiang_man` | 치앙마이 재건 정책의 핵심 개념 |
+| `kawila_kep_phak_sai_sa_policy` | `san_pa_tong` | 산파통 다민족 정착의 정책적 배경 |
 | `doi_suthep_kawila_parasol` | `doi_suthep` | 실존 봉헌물(우산)의 최초 봉헌 사건 |
 | `chiang_mai_wall_moat_phases` | `jaeng_sri_phum` | 여러 축성 단계 중 짼 스리 품이 위치한 북동쪽 모서리의 특수성 |
 | `chiang_mai_three_sacred_relics` | `doi_suthep` | 3대 신물 중 하나 |
@@ -150,7 +152,6 @@
 | `pu_sae_ya_sae_myth` | `doi_suthep` | 은둔자 수데와가 수행하며 이름을 남긴 곳 |
 | `camadevi_wiranga_spear_contest` | `doi_suthep` | 위랑가가 창을 던진 출발점 |
 | `camadevi_wiranga_spear_contest` | `wat_phra_that_hariphunchai` | 짜마테위가 다스리던 하리푼차이가 목표 지점 |
-| `wat_chiang_man_inscription_doubt` | `wat_chiang_man` | (위 왓 프라싱/치앙만 섹션과 중복 표기 — 동일 관계) |
 | `phra_sihing_shipwreck_origin` | `wat_phra_singh` | 사원의 명칭과 본존불의 전설적 기원 |
 | `phra_singh_buddha_provenance_chiang_rai` | `wat_phra_singh` | 사이트 이름의 근원이 된 불상 자체의 실제 출처 |
 | `emerald_buddha_hidden_in_chiang_rai` | `wat_phra_singh` | 함께 반입된 자매 불상의 별도 운명(참고 맥락) |
@@ -176,6 +177,7 @@
 | `tha_phae_walking_street_2002` | `tha_phae_gate` | 1985년 복원된 성문이 2002년부터 워킹 스트리트 출발점이 됨 |
 | `kad_luang_market_structural_evolution` | `warorot_market` | 왕실 화장터→시장 변모 이후 물리적 구조 변천 |
 | `tha_phae_gate_chiang_saen_captives` | `tha_phae_gate` | 새로운 역사층 — 치앙샌 포로 정착지 |
+| `pratu_saen_pung_haiya_name` | `pratu_saen_pung` | 성문의 옛 이름과 화장터 연결 유래 |
 
 ## 확장 후보 (Table C에 대응 사이트 없음 — Table A·D에만 존재)
 
