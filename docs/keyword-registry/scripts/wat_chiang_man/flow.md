@@ -2,22 +2,33 @@
 
 `site_id = wat_chiang_man`, DB 쿼리: `SELECT k.*, sl.relation FROM site_links sl JOIN keywords k ... WHERE site_id='wat_chiang_man'` (26개 키워드 중 24개를 하나의 연대기로 엮음, 2개는 각주/학술논쟁으로 처리).
 
-| # | 연도 | 비트 | keyword_id |
-|---|---|---|---|
-| 1 | 1296 | 망라이왕이 파야오·수코타이 왕과 동맹해 삼왕 공동 창건, "도시엔 지탱할 절이 있어야 한다"는 믿음으로 명명 | `capital_relocation_1296`, `three_kings_temple_inscription`, `chiang_man_name_meaning` |
-| 2 | 1296 | 하리푼차이 정복 후 가져온 두 불상(백옥불·나라기리 조복상) 안치 | `phra_setangkhamani`, `nalagiri_buddha` |
-| 3 | 1296~ | 세계순례부처 전설 속 8대 신성사원 중 하나(상가람)로 등장 | `phra_chao_liap_lok`, `eight_sacred_temples_liap_lok` |
-| 4 | 1471 | 틸로카랏왕, 무너진 쩨디를 코끼리 15마리 창롬 쩨디로 재건 | `tilokarat_restoration_1471`, `elephant_chedi` |
-| 5 | 1551 | 버마 점령, 폐사 | `burmese_occupation_1551` |
-| 6 | 1558 | 점령군 버마왕 몽트라의 역설적 대규모 후원·재건 | `mangthra_restoration_1558` |
-| 각주 | 1581 | (학술 논쟁) 비문의 "삼중 성벽" 기록은 후대 창작 가능성 | `wat_chiang_man_inscription_doubt` |
-| 7 | 1797.3.9 | 카윌라왕, 망라이 건국 500주년에 정확히 맞춰 재입성, 왕궁 입성 전날 밤을 이곳에서 보냄 | `kawila_re_entry_procession_1797`, `kawila_restoration`, `kawila_kep_phak_sai_sa_policy`, `konbaung_style_influx` |
-| 8 | 1890년대 | 치앙마이 최초 담마유티까 종파 거주 | `dhammayutika_first_residence` |
-| 9 | 1909 | 다라 라사미가 불상을 방콕으로 가져간 일이 오라버니 급사와 얽혀 흉조로 해석 | `dara_rasami_local_backlash` |
-| 10 | 1920~30s | 크루바 시위차이 — 호랑이 서명, '호랑이 교단', 마법검 소지 혐의, 첫 체포 시기·원인 논쟁 | `tiger_signature`, `khruba_srivichai_tiger_order`, `khruba_srivichai_sword_charge`, `khruba_srivichai_first_arrest_dating` |
-| 11 | 1962 | 시위차이 추모 사당 건립 | `khruba_srivichai_shrine_1962` |
-| 12 | 현재 | 다라 라사미(전통보존)와 시위차이(민중저항), 란나 정체성의 두 상징 공존 | `dara_vs_srivichai_symbolism` |
+## 서술자 (2025-09 개정)
 
-**분량 결정**: 200~400자였던 기존 sites.json 스토리보다 훨씬 길게, 위 24개 비트를 전부 살린 멀티 단락 스크립트로 작성(2025-09 결정, 필요시 추후 축약).
+**화자: 크루바 시위차이 (실존 인물, 1920~30년대 이 절의 실질적 거점 인물)** — "그런 인물이 있으면 실존 인물을, 없으면 대표 인물을 만들어 화자로 쓴다"는 규칙에 따라 선택. 그는 1296~1890년대 역사를 직접 겪지 않았으므로 "전해 들은 옛이야기"로, 1900년대~1930년대 자신의 시대는 1인칭 직접 경험으로, 1938년 사후(1962년 사당, 현재)는 "그가 세상을 떠난 뒤에도 이야기는 계속된다"는 짧은 전환구를 거쳐 계속 그의 목소리(구전 화자 컨벤션)로 서술한다.
 
-**미사용 각주 처리**: `wat_chiang_man_inscription_doubt`는 본문 흐름을 끊지 않도록 "학자들의 노트" 형태의 짧은 삽입 단락으로 배치.
+**서술 모드 태그**: `전승`(들은 이야기) / `직접`(1인칭 경험) / `사후`(전환 이후의 코다) / `각주`(화자 목소리 밖, 학술 노트).
+
+## 비트 테이블
+
+| # | 연도 | 사실(fact) | 의미/반응 — 왜 중요했나 (사람에게 어떤 의미였는지) | keyword_id | 서술모드 |
+|---|---|---|---|---|---|
+| 1 | 1296 | 망라이왕이 파야오·수코타이 왕과 동맹해 삼왕 공동 창건, "도시엔 지탱할 절이 있어야 한다"는 믿음으로 명명 | [사실 자체에 내포] 창건 동기 자체가 종교적 신념 — 도시보다 절을 먼저 세운 순서가 의미심장 | `capital_relocation_1296`, `three_kings_temple_inscription`, `chiang_man_name_meaning` | 전승 |
+| 2 | 1296 | 하리푼차이 정복 후 가져온 두 불상(백옥불·나라기리 조복상) 안치 | [추정, 상식적 해석] 정복지의 성물을 새 수도 첫 절에 모심 = 영적 권위 확보의 선언 | `phra_setangkhamani`, `nalagiri_buddha` | 전승 |
+| 3 | 1296~ | 세계순례부처 전설 속 8대 신성사원 중 하나(상가람)로 등장 | [전설 자체가 의미] 신화적 지위 부여 — 그냥 오래된 절이 아니라 신성지리의 일부라는 믿음 | `phra_chao_liap_lok`, `eight_sacred_temples_liap_lok` | 전승 |
+| 4 | 1471 | 틸로카랏왕, 무너진 쩨디를 코끼리 15마리 창롬 쩨디로 재건 | [사실에 내포] 국가 후원의 증표 | `tilokarat_restoration_1471`, `elephant_chedi` | 전승 |
+| 5 | 1551 | 버마 점령, 폐사 | [추정, 상식적] 정복당한 도시의 종교 중심지 방치 = 도시가 스스로를 지킬 힘을 잃었다는 상징 | `burmese_occupation_1551` | 전승 |
+| 6 | 1558 | 점령군 버마왕 몽트라의 역설적 대규모 후원·재건 | [추정, 통치 정당화 상식] 정복자가 정복지 신앙을 보호 = 칼 못지않게 믿음(민심)도 필요했을 것 | `mangthra_restoration_1558` | 전승 |
+| 각주 | 1581 | (학술 논쟁) 비문의 "삼중 성벽" 기록은 후대 창작 가능성 | 다른 연대기에 없는 디테일 — 학계는 후대 전설 가능성 제기 (Vickery 1995 등) | `wat_chiang_man_inscription_doubt` | 각주 |
+| 7 | 1797.3.9 | 카윌라왕, 망라이 건국 500주년에 정확히 맞춰 재입성, 왕궁 입성 전날 밤을 이곳에서 보냄 | [추정, 날짜 일치의 상징성] 새 시대를 열기 전 가장 오래되고 신성한 절 앞에서 하룻밤 = 우연이 아닌 상징적 선택으로 읽을 수 있음 | `kawila_re_entry_procession_1797`, `kawila_restoration`, `kawila_kep_phak_sai_sa_policy`, `konbaung_style_influx` | 전승 |
+| 8 | 1890년대 | 치앙마이 최초 담마유티까 종파 거주 | [추정] 방콕 왕실과 가까운 종파가 처음 뿌리내림 = 중앙집권화의 신호 | `dhammayutika_first_residence` | 전승 |
+| 9 | 1909 | 다라 라사미가 불상을 방콕으로 가져간 일이 오라버니 급사와 얽혀 흉조로 해석 | **[출처 있음]** 현지 승려의 일기에 "매우 불길한 일(1909.7.29)"이라는 기록이 실제로 남아있음 — 당대 반응이 직접 문서화된 드문 사례 | `dara_rasami_local_backlash` | 전승(화자 도착 직전 사건, 여전히 회자되던 시점) |
+| 10 | 1920~30s | 크루바 시위차이 — 호랑이 서명, '호랑이 교단', 마법검 소지 혐의, 첫 체포 시기·원인 논쟁 | **[출처 있음]** 호랑이 문양=그의 개인 서명이자 훗날 붙여진 저항의 상징; 마법검 혐의=반란 암시로 받아들여짐; 체포 사유는 관청 기록마다 달랐음(승가법 vs 병역법 — Bowie 2014/2023 vs 기존 통설) | `tiger_signature`, `khruba_srivichai_tiger_order`, `khruba_srivichai_sword_charge`, `khruba_srivichai_first_arrest_dating` | 직접(1인칭) |
+| 11 | 1962 | 시위차이 추모 사당 건립 | [사실] 사후에도 지속된 대중적 신앙 | `khruba_srivichai_shrine_1962` | 사후 |
+| 12 | 2011 | 정치인이 시위차이 사당에서 총리 출마 선언 | **[출처 있음, ch.4]** 저항의 상징이 현대 정치에서 재소환됨 — "의미의 변화"를 보여주는 가장 뚜렷한 사례 | `dara_vs_srivichai_symbolism` | 사후 |
+| 13 | 현재 | 다라 라사미(전통보존)와 시위차이(민중저항), 란나 정체성의 두 상징 공존 | 화자 자신이 그 두 상징 중 하나가 됐다는 자각 — 자기 인식적 마무리 | `dara_vs_srivichai_symbolism` | 사후 |
+
+**분량 결정**: 200~400자였던 기존 sites.json 스토리보다 훨씬 길게, 위 비트를 전부 살린 멀티 단락 스크립트로 작성(2025-09 결정, 필요시 추후 축약).
+
+**각주 처리**: `wat_chiang_man_inscription_doubt`는 화자의 목소리 밖 — "여기서 잠깐, 학자들 얘기를 전해드리면" 식으로 화자가 잠시 내레이터 역할에서 벗어나 짧게 삽입.
+
+**앵커 사용(개정)**: 매 비트가 아니라 2~3곳만. 이 사이트는 (1) 1296년 창건 — 독자의 시간 감각을 처음 잡아주는 지점, (2) 1920~30년대 화자 본인 시대 — 일제강점기와 겹치는 자연스러운 연결점. 두 곳으로 제한. `_historical-anchors.md` 개정 원칙 참고.
