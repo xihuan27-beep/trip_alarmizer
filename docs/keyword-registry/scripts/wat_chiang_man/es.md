@@ -1,0 +1,25 @@
+# Wat Chiang Man (Español)
+
+Wat Chiang Man es el templo más antiguo de Chiang Mai — en cierto modo, la "oficina fundacional" de la propia ciudad.
+
+En 1296, el ambicioso rey Mangrai se alió con el rey Ngam Mueang de Phayao y el rey Ruang de Sukhothai para explorar juntos el lugar donde levantaría su nueva capital. La inscripción fundacional del propio templo, que aún se conserva, deja constancia de que los tres reyes lo fundaron conjuntamente. Siguiendo la antigua creencia de Lan Na de que "toda ciudad necesita un templo que la sostenga", el templo recibió el nombre de Chiang Man: "la ciudad firme". Ese mismo año, 1296, Marco Polo acababa de regresar a Venecia tras sus viajes por China.
+
+Recién conquistado el reino de Hariphunchai, el rey trajo aquí dos preciadas imágenes de Buda: Phra Setangkhamani, tallada en jade blanco, y una imagen de piedra de estilo gupta que representa a Buda sometiendo al elefante Nalagiri. El templo también aparece como uno de los ocho lugares sagrados en la leyenda del "Buda que recorrió el mundo" — una prueba de lo central que fue Wat Chiang Man en la geografía sagrada de Chiang Mai desde sus mismos orígenes.
+
+Unos 170 años más tarde, en 1471, el rey Tilokarat reconstruyó el chedi original, que se había derrumbado, dándole la forma del "Chang Lom Chedi", con quince estatuas de elefante rodeando su base. (En Europa, la Guerra de las Dos Rosas hacía estragos en Inglaterra, con Eduardo IV recién restaurado en el trono.)
+
+Pero la buena fortuna del templo no duraría. En 1551, Chiang Mai cayó ante las fuerzas birmanas y el templo fue abandonado. (En Europa se celebraba el Concilio de Trento, que redefinía el catolicismo frente a la Reforma.) Y sin embargo, apenas siete años después, en 1558, el propio rey que ahora gobernaba la ciudad conquistada —el rey birmano Mangthra— se convirtió en su gran benefactor, financiando su restauración: un caso poco frecuente de un conquistador protegiendo la fe de los conquistados. (Ese mismo año, Isabel I ascendía al trono de Inglaterra.)
+
+*(Nota de los historiadores: una inscripción fechada en 1581 afirma que el templo ya contaba con una "triple muralla" desde 1296, un detalle que no aparece en ninguna otra crónica, por lo que los estudiosos sospechan que podría ser un añadido legendario posterior. Ese año, en Europa, las provincias neerlandesas acababan de declarar formalmente su independencia de España.)*
+
+Casi quinientos años después de la fundación, el jueves 9 de marzo de 1797 —justo en el 500.º aniversario de la ciudad de Mangrai—, el rey Kawila expulsó a los birmanos y regresó triunfante a una Chiang Mai que llevaba mucho tiempo desierta. La noche antes de entrar en el palacio real, eligió pasarla precisamente aquí, frente a este templo. Kawila reconstruiría después la ciudad despoblada con su célebre política de "meter a la gente en las ciudades como se mete la verdura en cestas", convocando de vuelta a las familias dispersas. (En Europa, Napoleón concluía su campaña de Italia con el Tratado de Campoformio.)
+
+A finales del siglo XIX, monjes de la secta Dhammayutika se instalaron aquí por primera vez en Chiang Mai. (En Europa acababa de inaugurarse la Torre Eiffel en París.)
+
+En 1909, la reina Dara Rasami retiró una de las imágenes de Buda del templo y se la llevó a Bangkok. Cuando su hermanastro Inthawarorot, entonces gobernador de Chiang Mai, murió repentinamente solo dos meses después, la gente del lugar susurró que aquello había sido un mal presagio provocado por ese mismo gesto. (Ese mismo año en Europa, Louis Blériot se convirtió en el primero en cruzar el Canal de la Mancha en avión.)
+
+En las décadas de 1920 y 1930, el templo fue escenario de otra historia muy distinta. Khruba Srivichai, un monje nacido en el Año del Tigre, lo convirtió en base de lo que llegó a conocerse como la "Orden del Tigre", un movimiento de reforma entre sus seguidores. Los edificios que restauró aún conservan un motivo de tigre, considerado hasta hoy su "firma" personal. En cierta ocasión fue investigado por posesión de "una espada mágica con vaina de oro", una acusación con inequívocos ecos de rebelión. Todavía hoy los historiadores debaten cuándo y por qué fue arrestado por primera vez: el relato tradicional lo sitúa hacia 1908–1910 por infringir la ley monástica, mientras que investigaciones más recientes apuntan a 1915, por infringir la ley de reclutamiento. (Era la época álgida del dominio colonial japonés sobre Corea, y en la Europa de entreguerras una paz frágil se deslizaba hacia otra guerra.)
+
+Veinticuatro años después de su muerte, en 1962, se erigió en el recinto del templo un salón conmemorativo en su honor. (Ese mismo año, el mundo contuvo la respiración durante la Crisis de los Misiles de Cuba.)
+
+Hoy, Wat Chiang Man alberga dos símbolos contrapuestos, uno junto al otro: Dara Rasami, guardiana de la tradición real, y Khruba Srivichai, el monje rebelde que estuvo del lado del pueblo. Durante más de setecientos años, este pequeño templo ha guardado la historia entera de una ciudad: su nacimiento, su ocupación y liberación, y los destinos entrelazados de su realeza y su gente común.
