@@ -32,4 +32,4 @@ Veinticuatro años después, en 1962, construyeron un santuario en mi honor dent
 
 Así que hoy, en Wat Chiang Man conviven dos símbolos opuestos: Dara Rasami, guardiana de la tradición real, y yo, el monje rebelde que se puso del lado del pueblo. Durante más de 700 años, este pequeño templo ha llevado consigo la historia entera de una ciudad — su nacimiento, su conquista, su liberación, y los destinos entrelazados de la realeza y la gente común. La próxima vez que vengas, busca la figura del tigre en los frontones. Ese soy yo.
 
-Ah, una cosa más — si piensas visitar también Wat Phra Singh, te cuento que ahí es donde de verdad pasé más tiempo de mi vida. La gente prácticamente me consideraba el abad real de ese templo. Y en 1935 pasó allí algo importante también. Si tienes curiosidad, ven a buscarme allí — seguimos la historia.
+Ah, una cosa más — si piensas visitar también Wat Phra Singh, te cuento que ahí es donde de verdad pasé más tiempo de mi vida. La gente prácticamente me consideraba el abad real de ese templo. Y en 1935 pasó allí algo importante también. Si tienes curiosidad, allí también podrás escuchar más sobre mí.

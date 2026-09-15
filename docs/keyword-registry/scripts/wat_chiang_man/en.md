@@ -32,4 +32,4 @@ Twenty-four years later, in 1962, they built a shrine here at the temple in my h
 
 So today, Wat Chiang Man holds this strange, wonderful pairing — Dara Rasami on one side, guardian of royal tradition, and me on the other, the rebel monk who stood with the people. For over 700 years, this one small temple has carried the entire story of a city: its birth, its occupation, its liberation, and the tangled lives of royals and everyday people alike. Next time you're here, look up at the gables for a tiger carving. That's me.
 
-Oh, one more thing — if you're planning to visit Wat Phra Singh too, that's actually where I spent most of my time. People pretty much treated me as the real abbot there. Something big happened there in 1935, too. If you're curious, come find me — I'll pick the story back up when you get there.
+Oh, one more thing — if you're planning to visit Wat Phra Singh too, that's actually where I spent most of my time. People pretty much treated me as the real abbot there. Something big happened there in 1935, too. If you're curious, you can hear more about me there too.
