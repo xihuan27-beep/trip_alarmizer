@@ -66,6 +66,28 @@ def strip_annotation(text: str) -> str:
     return text
 
 
+CLAIM_TAG_MAP = {
+    "전설": ("legend", None),
+    "논쟁": (None, "disputed"),
+    "대체됨": (None, "superseded"),
+}
+
+
+def strip_claim_tag(claim: str) -> tuple[str, str, str]:
+    """Parses an optional leading '[전설|논쟁|대체됨]' tag off a Table D claim
+    cell. Returns (clean_claim, claim_type, status), defaulting to
+    ('historical', 'preferred') when no tag is present. See README.md
+    "충돌·전설 표기" for the convention and when to use which tag."""
+    claim_type, status = "historical", "preferred"
+    m = re.match(r"^\[(전설|논쟁|대체됨)\]\s*", claim)
+    if m:
+        ct, st = CLAIM_TAG_MAP[m.group(1)]
+        claim_type = ct or claim_type
+        status = st or status
+        claim = claim[m.end():].strip()
+    return claim, claim_type, status
+
+
 TYPE_PREFIX_MAP = [
     ("인물", "인물"),
     ("장소", "장소"),
@@ -171,7 +193,9 @@ def load_sources():
                         kid, src, claim = r
                         if not kid or kid.startswith("keyword_id"):
                             continue
-                        sources.append({"keyword_id": kid, "source": src, "claim": claim})
+                        claim, claim_type, status = strip_claim_tag(claim)
+                        sources.append({"keyword_id": kid, "source": src, "claim": claim,
+                                         "claim_type": claim_type, "status": status})
                 elif len(header) == 2:
                     for r in rows:
                         if len(r) != 2:
@@ -180,7 +204,9 @@ def load_sources():
                         if not kid or kid.startswith("keyword_id"):
                             continue
                         src = pending_shared_source or "(출처 미상 — 원문 확인 필요)"
-                        sources.append({"keyword_id": kid, "source": src, "claim": claim})
+                        claim, claim_type, status = strip_claim_tag(claim)
+                        sources.append({"keyword_id": kid, "source": src, "claim": claim,
+                                         "claim_type": claim_type, "status": status})
             i = next_i
         else:
             i += 1
@@ -280,7 +306,11 @@ def main():
         id          INTEGER PRIMARY KEY AUTOINCREMENT,
         keyword_id  TEXT NOT NULL REFERENCES keywords(keyword_id),
         source      TEXT NOT NULL,
-        claim       TEXT NOT NULL
+        claim       TEXT NOT NULL,
+        claim_type  TEXT NOT NULL DEFAULT 'historical'
+            CHECK (claim_type IN ('historical','legend','disputed')),
+        status      TEXT NOT NULL DEFAULT 'preferred'
+            CHECK (status IN ('preferred','disputed','superseded'))
     );
 
     CREATE INDEX idx_site_links_keyword ON site_links(keyword_id);
@@ -314,8 +344,8 @@ def main():
 
     for s in sources:
         cur.execute(
-            "INSERT INTO sources (keyword_id, source, claim) VALUES (?,?,?)",
-            (s["keyword_id"], s["source"], s["claim"]),
+            "INSERT INTO sources (keyword_id, source, claim, claim_type, status) VALUES (?,?,?,?,?)",
+            (s["keyword_id"], s["source"], s["claim"], s["claim_type"], s["status"]),
         )
 
     conn.commit()
@@ -330,6 +360,15 @@ def main():
           f"(conflict-detection candidates), top 5:")
     for kid, c in multi[:5]:
         print(f"  - {kid}: {c} sources")
+
+    cur.execute("SELECT keyword_id, source FROM sources WHERE status='disputed' ORDER BY keyword_id")
+    disputed = cur.fetchall()
+    cur.execute("SELECT keyword_id, source FROM sources WHERE status='superseded' ORDER BY keyword_id")
+    superseded = cur.fetchall()
+    cur.execute("SELECT keyword_id, source FROM sources WHERE claim_type='legend' ORDER BY keyword_id")
+    legend = cur.fetchall()
+    print(f"\nclaim_type/status tags: {len(disputed)} disputed row(s), "
+          f"{len(superseded)} superseded row(s), {len(legend)} legend row(s).")
 
     conn.close()
     print(f"\n✅ Wrote {DB_PATH}")

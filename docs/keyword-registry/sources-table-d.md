@@ -10,7 +10,7 @@
 | `wkk_name_irony` | Van Beek (1995), 동 논문 재인용 | 북부방언으로 "물을 다스리는 요새"라는 뜻 |
 | `capital_relocation_1296` | Ng/Wood/Ziegler (2015) | 1291/92 이주 결정, 1296 치앙마이 공식 건도 |
 | `wkk_dyke_1411` | Ng/Wood/Ziegler (2015), 자체 탄소연대측정 | 동물뼈 cal AD 1411±12 |
-| `levee_debate` | Hinz et al. (2010) | 자연제방(levee)이라는 원래 해석 |
+| `levee_debate` | Hinz et al. (2010) | [대체됨] 자연제방(levee)이라는 원래 해석 |
 | `levee_debate` | Ng/Wood/Ziegler (2015) | 지층분석으로 반박 — 인공제방(dyke)이라 재해석 |
 | `ping_avulsion` | Ng/Wood/Ziegler (2015) | OSL(1412-1552)·탄소연대(1476-1512) 수렴 |
 | `flood_1524` | Wyatt & Wichienkeeo (1995:108), Grabowsky (2004:23) 재인용 | "시품 시장 사람들이 물에 빠져 죽었다" |
@@ -34,7 +34,7 @@
 | `elephant_chedi` | 동 논문(ศักดิ์ชัย สายสิงห์, 2563) | 코끼리 15마리+모서리4마리, 하리푼차이+크메르 양식 혼합 |
 | `phra_setangkhamani` | 동 논문 | 망라이왕이 하리푼차이 정복 후 가져옴, 4곳에 사리 봉안 |
 | `nalagiri_buddha` | 동 논문 | 아자타삿투왕 전설, 인도 굽타양식, 하리푼차이에서 옮겨옴 |
-| `wat_chiang_man_inscription_doubt` | Vickery (1995), Griswold & Prasert (EHS 18) 견해 인용 | 1581년 비문 제76호의 "삼중 성벽(1296년)" 기록이 진나칼라말리·치앙마이 연대기 어디에도 없어 16세기 창작 가능성 제기 |
+| `wat_chiang_man_inscription_doubt` | Vickery (1995), Griswold & Prasert (EHS 18) 견해 인용 | [논쟁] 1581년 비문 제76호의 "삼중 성벽(1296년)" 기록이 진나칼라말리·치앙마이 연대기 어디에도 없어 16세기 창작 가능성 제기 |
 
 ## 왓 파랏
 
@@ -144,8 +144,8 @@
 
 | keyword_id | 출처 | 주장 내용 |
 |---|---|---|
-| `khruba_srivichai_first_arrest_dating` | 종전 다수설 (Singkha 1979, Sangaa 1956, Peltier 2017, Pensupha et al. 2018 등) | 1908~1910년경, 승가법(1902) 위반으로 첫 체포 |
-| `khruba_srivichai_first_arrest_dating` | Bowie 본인 (2014, 2023), 방콕타임즈 1920.6.7·영국 영사 서한 등 | 실제로는 1914.4~1915.11 사이, 병역법(1905) 위반으로 첫 체포 — 승가법은 1924년까지 북부에 미시행 |
+| `khruba_srivichai_first_arrest_dating` | 종전 다수설 (Singkha 1979, Sangaa 1956, Peltier 2017, Pensupha et al. 2018 등) | [논쟁] 1908~1910년경, 승가법(1902) 위반으로 첫 체포 |
+| `khruba_srivichai_first_arrest_dating` | Bowie 본인 (2014, 2023), 방콕타임즈 1920.6.7·영국 영사 서한 등 | [논쟁] 실제로는 1914.4~1915.11 사이, 병역법(1905) 위반으로 첫 체포 — 승가법은 1924년까지 북부에 미시행 |
 | `khruba_srivichai_phra_singh_abbot` | Bowie (2023) | 화교 상인 부부가 명상관·도서관 후원, 1935년 2차 소환 전까지 사실상 주지 |
 | `khruba_srivichai_phra_singh_abbot` | Bowie (2025), "Erasure" | 10년 넘게 사실상 주지, 수천 건 란나 불경 필사 후원 |
 | `khruba_srivichai_phra_singh_abbot` | Turton (2006) | 다라 라사미가 왓 프라통팁은 꾸바 와지라판야에게, 왓 프라싱은 그에게 재건 위촉 — 우연이 아니라 직접 위촉 |
@@ -201,7 +201,7 @@
 | `chiang_mai_three_sacred_relics` | Grabowsky (2005), JSS 93, 북부 태국 필사본(SRI 82.112.05.091) 인용 | 도이수텝 유물·프라깨오/프라싱 유물·인타킨 돌기둥이 3대 신성 대상으로 나란히 취급됨 |
 | `pu_sae_ya_sae_myth` | Rhum (1987), JSS 75, Kraisri Nimmanahaeminda(1967) 재인용 | 부처가 식인 야차 부부를 교화, 아들이 은둔자 수데와가 되어 도이수텝에 이름을 남김 |
 | `camadevi_wiranga_spear_contest` | Rhum (1987), 여러 란나 연대기 종합 | 짜마테위가 창던지기 대결을 부정한 속임수로 조작해 위랑가를 무력화 |
-| `phra_sihing_shipwreck_origin` | Vickery (1995), JSS 83, 진나칼라말리·자야위크라마 번역 인용 | 1256년, 프라 시힝 불상이 실론에서 난파해 3일간 표류 후 나콘 시탐마랏에 도착 |
+| `phra_sihing_shipwreck_origin` | Vickery (1995), JSS 83, 진나칼라말리·자야위크라마 번역 인용 | [전설] 1256년, 프라 시힝 불상이 실론에서 난파해 3일간 표류 후 나콘 시탐마랏에 도착 |
 | `wat_sri_suphan_wihan_1503` | Penth (1996), JSS 84(2), 각주15 | 왓 시 수판 위한 착공이 쭐라삭까랏 865년(1503년) 신년 목요일 오전 6~7시반으로 명시 |
 | `buaban_doi_suthep_legend` | Renard (1999), JSS 87(1&2) | 바람둥이 관리에게 배신당한 부아반이 도이수텝 폭포에서 투신, 노래로 전승 |
 | `kawila_camp_nawarat_bridge` | Renard (1999) | 방콕 첫 군 주둔지가 삥강 동안, 나와랏 다리 남쪽에 위치 |

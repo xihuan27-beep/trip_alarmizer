@@ -29,9 +29,23 @@ python3 build_db.py     # content.sqlite 재생성 + FK 무결성 검증 + 충�
 sites(site_id PK, name, name_thai, latitude, longitude, radius_meters, category, year_built, teaser, story)
 keywords(keyword_id PK, ko, th, en, type, type_detail, is_orphan)
 site_links(id PK, keyword_id FK→keywords, site_id FK→sites, relation)
-sources(id PK, keyword_id FK→keywords, source, claim)
+sources(id PK, keyword_id FK→keywords, source, claim, claim_type, status)
 ```
 `type`은 README 하단의 6종 카테고리로 정규화되고, 원본 세부 태그(예: "전설모티프(지명)")는 `type_detail`에 보존됩니다. `is_orphan=1`은 아직 대응 사이트가 없는 "확장 후보" 키워드.
+
+### 충돌·전설 표기 (`claim_type`/`status`, 2025-09 추가)
+
+`sources`(Table D) 각 행은 기본값 `claim_type='historical'`, `status='preferred'`를 갖습니다. 별도 태그가 없으면 이 기본값 그대로 들어가므로 기존 행을 일일이 손댈 필요는 없습니다. 특정 주장에 태그를 달고 싶으면 `sources-table-d.md`의 `claim` 셀 맨 앞에 아래 세 태그 중 하나를 붙이면 `build_db.py`가 파싱해 제거하고 해당 컬럼에 반영합니다:
+
+- `[전설]` → `claim_type='legend'` — 학술적 실사와 별개로 존재하는 기원 설화 (예: `phra_sihing_shipwreck_origin`, 프라싱 불상의 실론 난파 전설. 같은 불상의 실제 이송 경로를 다루는 `phra_singh_buddha_provenance_chiang_rai`는 태그 없이 기본값 `historical` 그대로 — 전설과 실사가 상충이 아니라 같은 이야기의 다른 챕터인 경우).
+- `[논쟁]` → `status='disputed'` — 학계가 실제로 갈리고, 어느 한쪽이 "맞다"고 편집팀이 단정하지 않은 경우. 양쪽 행 모두에 붙인다 (예: `khruba_srivichai_first_arrest_dating`의 두 행, `wat_chiang_man_inscription_doubt`).
+- `[대체됨]` → `status='superseded'` — 더 최근·강한 실증 근거로 사실상 뒤집힌 구설. 뒤집힌 쪽 행에만 붙이고, 새 정설 행은 태그 없이 기본값 `preferred`로 둔다 (예: `levee_debate`의 Hinz(2010) 행 — Ng/Wood/Ziegler(2015)의 탄소연대측정에 반박됨).
+
+`conflicts.md`는 여전히 사람이 읽는 서사 설명(왜 충돌인지, 콘텐츠 제작 시 어떻게 다룰지)을 담당하고, 이 태그는 그중 "같은 keyword_id 아래 여러 source 행"으로 표현 가능한 것만 구조적으로 반영합니다. 서로 다른 keyword_id 간의 경쟁 서사(예: 짜마테위-위랑가 전설의 두 버전, 각기 다른 keyword_id)는 이 메커니즘으로 잡히지 않으니 `conflicts.md` 서술로만 남습니다.
+
+### `keyword_id`/`site_id` 네임스페이스 규칙 (다국가 확장 대비, 2025-09 추가)
+
+지금까지처럼 ID에 그 사이트/인물의 실제 이름을 그대로 박아 넣는 관례(`wat_chiang_man_*`, `dara_rasami_*`, `khruba_srivichai_*`)를 계속 유지합니다 — 국가/지역 접두어를 강제하지 않습니다. 치앙마이 한 도시 안에서는 이미 충돌이 거의 없었고, 다른 나라 사이트가 추가되더라도 도시/인물명이 서로 다르면 자연히 겹치지 않기 때문입니다. 다만 새 키워드를 만들기 전 항상 기존 레지스트리를 검색하는 규칙(운영 규칙 1번)은 국가가 늘어날수록 더 중요해지므로, ID를 지을 때 그 사이트/인물의 가장 구체적인 이름을 넣어 우발적 충돌 가능성을 스스로 낮추는 걸 관례로 삼습니다.
 
 ### 조인 예시
 ```sql
