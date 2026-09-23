@@ -1,0 +1,21 @@
+Hello. I'm Khruba Srivichai. I'm a monk, though people around here used to call me "the Tiger Monk." Today let me tell you about Wat Suan Dok.
+
+First, let me tell you why this temple sits exactly where it does. Back in King Kuena's day, there was a pilgrimage route running from inside the old Chiang Mai city walls, through the Suan Dok Gate, past this temple, and all the way up Doi Suthep mountain. This temple sat right on that route — a kind of gateway on the way up the mountain. It even shows up in the legend of the Buddha who walked the whole world, under its old name, Buppharam. It was counted as one of the eight sacred temples.
+
+This temple and Doi Suthep are actually tied together by a single legend. Long ago, a monk named Sumana Thera brought a relic here. While washing it in a golden urn, something miraculous happened — the relic suddenly multiplied into two or three pieces. One was enshrined in this temple's great chedi. The other was loaded onto a white elephant and released into the wild. The elephant climbed the mountain on its own, and when it reached the top of Doi Suthep, it trumpeted three times and died right there. A temple was later built on that very spot — the Doi Suthep temple you may already know. So this temple and Doi Suthep are basically sister temples, born from a single divided relic.
+
+Here's a fun statue story too. There's a massive Buddha image called Phra Chao Kao Tue, originally cast to become the main image at Wat Phra Singh — meant as a symbol of reconciliation between two rival sects at the time. Except it turned out too heavy to move all the way there. A symbol of reconciliation that never reached its own destination. Want to know where it ended up instead? Right here, in this temple. It couldn't make it to where it was headed, so it settled here instead.
+
+Something else happened between 1908 and 1909 — around the time Louis Blériot became the first person to fly across the English Channel, if that helps place it. The old royal mausoleum, which sat on the west bank of the Ping River — near where the Warorot Market stands today — kept flooding, so Queen Dara Rasami personally organized and funded its relocation here. She threw a fifteen-day festival that cost 100,000 baht — an enormous modernization project for its time. Twenty people, starting with King Kawila, were laid to rest here together. That said, locals also whispered uneasily about the string of modernization projects Dara Rasami was pushing through around this time.
+
+And here's a twist that really stays with you. Dara Rasami built this resting place for others — and years later, she herself was laid to rest in that very same mausoleum. The woman who arranged a resting place for others ended up needing one herself, right there.
+
+On July 9th, 1931, construction began on this temple's great hall, the Wihan Luang. Six to seven thousand people showed up to help build it every single day, and the whole thing — fifty-six pillars, twenty-five by sixty-six meters — was finished in just eight months. It's fair to say the whole community built this temple together.
+
+Around that same time — not long after the First World War had ended in Europe — I had my own connection to this place. Like other temples I touched, you'll find a tiger motif on the gables here too — my "signature."
+
+I passed away on February 21st, 1938. Here's something interesting, though — my cremation didn't happen until a full eight years later, on March 21st, 1946. I'm honestly not sure why it took so long. Afterward, my relics were divided into seven parts and enshrined in different places. One of them is right here at Wat Suan Dok.
+
+One last thing before I go. This temple still runs a program called "Monk Chat" today — about ten monks sit down with thirty or forty tourists for a two-hour conversation. Thinking about it, I spent my whole life never turning down a chance to talk with strangers either. So in a way, that same kind of conversation is still happening here. If you're here right now, maybe look for a chance to actually talk with a real monk.
+
+Oh, one more thing — remember Doi Suthep, the temple's sister site I mentioned? I'm also the one who built the road up that mountain while I was alive. If you're planning to visit there too, you can hear more of my story there as well.
