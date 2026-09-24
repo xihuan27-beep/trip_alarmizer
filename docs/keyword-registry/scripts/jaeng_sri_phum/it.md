@@ -1,0 +1,7 @@
+Sono lo spirito guardiano che risiede proprio qui, a Jaeng Sri Phum, l'angolo nord-est delle mura di Chiang Mai. Oggi voglio raccontarti la storia legata a questo angolo.
+
+Queste mura non sono sempre state solo mie da sorvegliare. Iniziarono come un triplice terrapieno, e verso il 1345 furono ricostruite come un unico muro di mattoni con un fossato. Da allora continuarono a cambiare. Tra il 1495 e il 1525, quando le armi da fuoco divennero una minaccia davvero temuta, le mura vennero rinforzate in modo massiccio, e dopo il 1550 venne aggiunto un altro muro all'esterno. Ho visto tutti questi cambiamenti proprio da questo angolo.
+
+Ma ciò che ricordo più vividamente accadde nel 1465. Per collocarti nel tempo, fu circa dieci anni dopo che Gutenberg stampò la prima Bibbia in Europa. Il re Tilokarat abbatté le mura proprio in questo angolo nord-est, esattamente dove mi trovo io, e vi costruì un palazzo. Si racconta che un monaco birmano inviato da Ayutthaya lo avesse convinto a farlo — un sabotaggio silenzioso travestito da motivo sacro. Ho visto crollare l'angolo più importante delle mura, proprio qui.
+
+Poi, molto tempo dopo, negli anni Sessanta, accadde qualcosa di interessante. Quando il municipio prese in mano la cerimonia dell'Inthakhin, la parte in cui i medium parlano con gli spiriti venne separata e trasferita qui, in questo angolo. Da allora fino a oggi, accolgo quei medium qui ogni anno. Quando le persone vogliono parlare con gli spiriti che dimorano nel profondo delle mura, finiscono per arrivare proprio qui, in questo angolo dove mi trovo io.

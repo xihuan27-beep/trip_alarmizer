@@ -1,0 +1,7 @@
+Soy el espíritu guardián que habita justo aquí, en Jaeng Sri Phum, la esquina noreste de la muralla de Chiang Mai. Hoy quiero contarte la historia ligada a esta esquina.
+
+Esta muralla no siempre fue solo mía para vigilar. Empezó como una triple empalizada de tierra, y hacia 1345 se reconstruyó como un único muro de ladrillo con un foso. Después siguió cambiando. Entre 1495 y 1525, cuando las armas de pólvora empezaron a inspirar verdadero temor, la muralla se reforzó considerablemente, y después de 1550 se añadió otro muro por fuera. Vi todos esos cambios desde esta misma esquina.
+
+Pero lo que recuerdo con más claridad ocurrió en 1465. Para situarte en el tiempo, fue unos diez años después de que Gutenberg imprimiera la primera Biblia de Europa. El rey Tilokarat derribó la muralla justo en esta esquina noreste, justo donde yo estoy, y construyó aquí un palacio. Según cuentan, un monje birmano enviado desde Ayutthaya lo convenció de hacerlo: un acto de sabotaje silencioso disfrazado de razones sagradas. Vi caer la esquina más importante de la muralla, aquí mismo.
+
+Luego, mucho tiempo después, en la década de 1960, ocurrió algo interesante. Cuando el ayuntamiento asumió la dirección de la ceremonia Inthakhin, la parte en que los médiums hablan con los espíritus se separó y se trasladó a esta esquina. Desde entonces hasta hoy, recibo aquí a esos médiums cada año. Cuando la gente quiere hablar con los espíritus que habitan en lo más profundo de la muralla, acaban llegando aquí, a esta esquina donde estoy yo.
