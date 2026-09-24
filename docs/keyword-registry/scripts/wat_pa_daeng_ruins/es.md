@@ -1,0 +1,13 @@
+Me llamo Ratanapañña. Curiosamente, de dónde vengo exactamente — e incluso si este fue realmente mi verdadero nombre — se convirtió en tema de debate constante entre los estudiosos posteriores. Hoy quiero contarte sobre este templo, Wat Pa Daeng. Es también mi propia historia.
+
+Pertenecía a los Sihalabhikkhu, la orden monástica de linaje cingalés. Comenzó en 1424 — más o menos por la época de la batalla de Verneuil, durante la Guerra de los Cien Años en Europa, por si te ayuda a ubicarte — con la primera generación de monjes reordenados en Sri Lanka, como un movimiento de reforma. Seguíamos la tradición aranyavasi, viviendo y practicando en el bosque, y este templo era nuestra base. Más tarde aparece en la leyenda del Buda que recorrió el mundo entero, bajo el nombre de "Asokaram".
+
+Algo ocurrió en 1504. El rey Phaya Kaew mandó fundir una imagen enorme de Buda, llamada Phra Chao Kao Tue, pensada como símbolo de reconciliación entre dos sectas enfrentadas desde hacía tiempo — la mía, Wat Pa Daeng, y Wat Suan Dok. He oído que la estatua resultó demasiado pesada para llegar a su destino previsto, Wat Phra Singh, y terminó instalándose en Wat Suan Dok — pero, en cualquier caso, la mía fue una de las dos sectas que aquella estatua debía reconciliar.
+
+En 1511 se celebró una ceremonia de consagración de límites en Wat Jet Yot. Asistieron unos veinte monjes, y ni uno solo de esa lista era de Chiang Mai. Menciono esto ahora porque, mucho más tarde, ese mismo hecho se convirtió en una pista clave en el debate sobre mi propia identidad. En su momento no tenía ni idea de que el simple hecho de mi ausencia en esa lista les daría tantos quebraderos de cabeza a los estudiosos, siglos después.
+
+Entre 1516 y 1517 — justo por la época en que Martín Lutero estaba a punto de fijar sus Noventa y cinco tesis en Europa, por si te ayuda a ubicarte — comencé a escribir aquí, en este templo, una crónica llamada el Jinakalamali. Seguí ampliándola hasta 1527. Ese libro llegaría a convertirse en una de las fuentes más importantes para comprender la historia de Lan Na. Fui yo quien registró la historia de los demás — la historia de los reyes, la historia de las ciudades.
+
+Pero aquí está la ironía. Nadie registró jamás mi propia historia como es debido, a cambio. Un estudioso llamado Prachakit en 1907, el príncipe Damrong en 1908, y un estudioso llamado Cœdès en 1915 — los tres llegaron a conclusiones distintas. De dónde vengo exactamente, y cuál era mi verdadero nombre, sigue sin resolverse hasta el día de hoy.
+
+El hombre que tan cuidadosamente registró la historia de todos los demás terminó dejando la suya propia envuelta en niebla. Quizás ese sea, simplemente, el destino de cualquiera que se dedica a escribir historia.
