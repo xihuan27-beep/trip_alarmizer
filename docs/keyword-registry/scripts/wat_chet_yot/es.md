@@ -1,0 +1,5 @@
+Soy Thera Jan. Fui un monje erudito. Hoy quiero contarte una breve historia sobre este templo, Wat Chet Yot.
+
+Una vez escribí algo llamado "guía de conducta" para el rey Tilokarat. Y ese mismo rey Tilokarat fue también quien construyó este templo, Wat Chet Yot. Al pensar que aquel a quien una vez aconsejé terminó dejando tras de sí un templo tan grandioso, me invade una sensación un tanto extraña.
+
+Incluso después de mi muerte, la historia de este templo continuó. En 1511 —para situarte en el tiempo, fue justo cuando Miguel Ángel estaba a punto de terminar el techo de la Capilla Sixtina— se celebró en este templo una ceremonia de consagración de límites. Pero entre los aproximadamente veinte monjes que figuran como asistentes, dicen que no había ni uno solo de Chiang Mai. Más tarde, los estudiosos discutieron precisamente sobre esa lista, debatiendo quién podría haber sido el autor de cierto registro antiguo. Sinceramente, yo tampoco conozco la respuesta. Yo era simplemente alguien que conocía al rey que construyó este templo.
