@@ -1,0 +1,13 @@
+Bonjour. Je suis Khruba Srivichai. Je suis moine, même si ici on m'a longtemps appelé "le moine tigre". Aujourd'hui, laissez-moi vous parler de San Pa Tong.
+
+Cette région a toujours été un lieu où des gens très différents se sont rassemblés pour vivre ensemble. En 1797, après que le roi Kawila eut chassé les Birmans et fut revenu, il mena une politique qu'il décrivait lui-même comme consistant à "mettre les gens dans les villes comme on met les légumes dans des paniers". Selon cette politique, cinq peuples différents — les Tai Yuan, Tai Khün, Tai Lü, Tai Yong, Lawa et Môn — se sont tous installés ensemble ici même, à San Pa Tong. Un tel rassemblement de tant de racines différentes en un seul lieu n'était pas chose courante.
+
+Mais l'histoire de cette terre remonte bien plus loin encore. En un lieu appelé Wiang Tha Kan se trouvait autrefois, il y a environ 1 200 ans, une ville avancée de l'époque Hariphunchai. On y a exhumé des ossements humains, des ossements de chevaux et des poteries. Des gens vivaient sur cette terre bien avant l'époque du roi Kawila.
+
+On raconte aussi ici une légende intéressante. Il y a longtemps, une anguille géante apparut dans un village, et les habitants convinrent de se la partager. Mais ils oublièrent totalement une veuve pauvre. En punition, tout le village s'enfonça sous terre et devint ce qui est aujourd'hui le lac Nong Sarian. C'est une histoire qui met en garde contre le fait de négliger les pauvres — un genre de récit bien différent des grandes histoires royales.
+
+Voici maintenant ma part de l'histoire. En 1927 — peu après la fin de la Première Guerre mondiale, si cela peut vous aider à situer l'époque — j'ai restauré ici, à San Pa Tong, un temple nommé Wat Phra Bat Yang Wat, tombé en ruine. Comme beaucoup d'autres temples, celui-ci fut l'un de ceux auxquels j'ai mis moi-même la main.
+
+Mais en 1936, quelque chose de vraiment difficile se produisit. Les abbés de trois temples de cette région furent contraints de quitter les ordres. L'un d'eux était Panya, abbé de ce même temple que j'avais restauré, Wat Phra Bat Yang Wat. Les archives montrent que, dans toute la région du Monthon Phayap, San Pa Tong s'est distingué comme le lieu ayant résisté le plus farouchement. D'autres régions se sont pour la plupart soumises tranquillement, mais les gens d'ici ont tenu bon jusqu'au bout.
+
+En y repensant, San Pa Tong fut, dès le départ, une terre où de nombreuses racines différentes se sont enracinées ensemble — et c'est peut-être précisément pour cela que, lorsque la crise est arrivée, ce fut le lieu qui a tenu bon ensemble avec le plus de force de tous.
