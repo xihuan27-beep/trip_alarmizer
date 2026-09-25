@@ -35,6 +35,7 @@ targets:
         NSLocationAlwaysAndWhenInUseUsageDescription: "앱을 사용하지 않는 동안에도 근처 유적지에 접근하면 알림으로 역사 정보를 알려드리기 위해 위치 정보가 필요합니다."
         UIBackgroundModes:
           - location
+          - audio
         UIRequiredDeviceCapabilities:
           - location-services
     dependencies:

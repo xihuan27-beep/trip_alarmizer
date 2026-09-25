@@ -2,6 +2,7 @@ import SwiftUI
 
 struct SitePopupView: View {
     let site: HistoricalSite
+    @ObservedObject private var audioPlayer = AudioPlayerManager.shared
 
     var body: some View {
         ScrollView {
@@ -26,6 +27,10 @@ struct SitePopupView: View {
                 }
                 .font(.footnote)
                 .foregroundStyle(.secondary)
+
+                if !site.audioURLs.isEmpty {
+                    audioButton
+                }
 
                 if !site.photos.isEmpty {
                     ScrollView(.horizontal, showsIndicators: false) {
@@ -64,6 +69,36 @@ struct SitePopupView: View {
         }
         .presentationDetents([.medium, .large])
         .presentationDragIndicator(.visible)
+    }
+
+    private var isThisSitePlaying: Bool {
+        audioPlayer.playingSiteID == site.id && audioPlayer.isPlaying
+    }
+
+    private var isThisSitePaused: Bool {
+        audioPlayer.playingSiteID == site.id && !audioPlayer.isPlaying
+    }
+
+    private var audioButton: some View {
+        Button {
+            if isThisSitePlaying {
+                audioPlayer.pause()
+            } else if isThisSitePaused {
+                audioPlayer.resume()
+            } else {
+                audioPlayer.play(site: site)
+            }
+        } label: {
+            Label(
+                isThisSitePlaying ? "일시정지" : (isThisSitePaused ? "이어서 듣기" : "오디오로 듣기"),
+                systemImage: isThisSitePlaying ? "pause.circle.fill" : "play.circle.fill"
+            )
+            .font(.headline)
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 12)
+        }
+        .buttonStyle(.borderedProminent)
+        .tint(.orange)
     }
 
     private func sectionHeader(_ title: String, systemImage: String) -> some View {

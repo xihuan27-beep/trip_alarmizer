@@ -16,7 +16,18 @@
       "흰쥐의길조",
       "도시창건"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/ru.mp3"
+    }
   },
   {
     "id": "wat_phra_singh",
@@ -34,7 +45,18 @@
       "란나목조건축",
       "다라라사미의문화적반격"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/ru.mp3"
+    }
   },
   {
     "id": "wat_chedi_luang",
@@ -53,7 +75,18 @@
       "라와족신화",
       "망라이왕의최후"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/ru.mp3"
+    }
   },
   {
     "id": "three_kings_monument",
@@ -71,7 +104,18 @@
       "쿠앙루앙",
       "도시계획회의"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/three_kings_monument/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/three_kings_monument/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/three_kings_monument/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/three_kings_monument/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/three_kings_monument/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/three_kings_monument/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/three_kings_monument/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/three_kings_monument/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/three_kings_monument/ru.mp3"
+    }
   },
   {
     "id": "tha_phae_gate",
@@ -89,7 +133,18 @@
       "전갈꼬리배",
       "카라반무역"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/ru.mp3"
+    }
   },
   {
     "id": "doi_suthep",
@@ -108,7 +163,18 @@
       "백상전설",
       "5개월22일의기적"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/doi_suthep/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/doi_suthep/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/doi_suthep/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/doi_suthep/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/doi_suthep/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/doi_suthep/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/doi_suthep/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/doi_suthep/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/doi_suthep/ru.mp3"
+    }
   },
   {
     "id": "wat_pha_lat",
@@ -126,7 +192,18 @@
       "도이수텝쉼터",
       "크루바시위차이의설계"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/ru.mp3"
+    }
   },
   {
     "id": "wat_umong",
@@ -144,7 +221,18 @@
       "테라찬의전설",
       "숲속명상처"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_umong/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_umong/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_umong/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_umong/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_umong/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_umong/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_umong/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_umong/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_umong/ru.mp3"
+    }
   },
   {
     "id": "wat_pa_daeng_ruins",
@@ -162,7 +250,18 @@
       "이중결계",
       "종파대립"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/ru.mp3"
+    }
   },
   {
     "id": "wat_suan_dok",
@@ -181,7 +280,18 @@
       "스리랑카승맥",
       "종파대립"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/ru.mp3"
+    }
   },
   {
     "id": "wat_chet_yot",
@@ -200,7 +310,18 @@
       "틸로카랏왕",
       "불경결집대회"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/ru.mp3"
+    }
   },
   {
     "id": "jaeng_sri_phum",
@@ -218,7 +339,18 @@
       "첩보승려",
       "풍수파괴작전"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/ru.mp3"
+    }
   },
   {
     "id": "pratu_saen_pung",
@@ -236,7 +368,18 @@
       "하이야묘지",
       "액막이의식"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/ru.mp3"
+    }
   },
   {
     "id": "suan_dok_gate",
@@ -254,7 +397,18 @@
       "마미아전설",
       "비극적사랑"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/ru.mp3"
+    }
   },
   {
     "id": "chang_puak_gate",
@@ -272,7 +426,18 @@
       "흰코끼리상",
       "두충신전설"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/ru.mp3"
+    }
   },
   {
     "id": "chiang_mai_gate",
@@ -289,7 +454,18 @@
       "남문",
       "야시장"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/ru.mp3"
+    }
   },
   {
     "id": "wat_ku_tao",
@@ -306,7 +482,18 @@
       "수박모양탑",
       "버마지배의역사"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/ru.mp3"
+    }
   },
   {
     "id": "warorot_market",
@@ -323,7 +510,18 @@
       "와로롯시장",
       "옛왕실화장터"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/warorot_market/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/warorot_market/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/warorot_market/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/warorot_market/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/warorot_market/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/warorot_market/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/warorot_market/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/warorot_market/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/warorot_market/ru.mp3"
+    }
   },
   {
     "id": "nawarat_bridge",
@@ -340,7 +538,18 @@
       "나와랏다리",
       "핑강"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/ru.mp3"
+    }
   },
   {
     "id": "first_church_chiang_mai",
@@ -358,7 +567,18 @@
       "카위로롯왕의분노",
       "종교자유령"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/ru.mp3"
+    }
   },
   {
     "id": "ban_ho_mosque",
@@ -375,7 +595,8 @@
       "친호카라반",
       "나이트바자의기원"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {}
   },
   {
     "id": "british_consulate_site",
@@ -392,7 +613,8 @@
       "빅토리아여왕입양루머",
       "외교적블러핑"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {}
   },
   {
     "id": "ubon_wanna_residence",
@@ -410,7 +632,18 @@
       "정령의신탁",
       "위스키독점전쟁"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/ru.mp3"
+    }
   },
   {
     "id": "wat_sri_suphan",
@@ -428,7 +661,18 @@
       "우와라이로드",
       "카윌라왕의장인이주"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/ru.mp3"
+    }
   },
   {
     "id": "mae_kha_canal",
@@ -446,7 +690,8 @@
       "외곽해자",
       "도시재생"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {}
   },
   {
     "id": "wiang_kum_kam",
@@ -464,7 +709,18 @@
       "망라이왕의첫도시",
       "홍수로매몰"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/ru.mp3"
+    }
   },
   {
     "id": "old_lamphun_road",
@@ -481,7 +737,18 @@
       "양나무가로수길",
       "카라반의이정표"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/ru.mp3"
+    }
   },
   {
     "id": "wat_phra_that_hariphunchai",
@@ -499,7 +766,18 @@
       "초능력고발장",
       "시암정부의공포"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/ru.mp3"
+    }
   },
   {
     "id": "dara_phirom_palace",
@@ -517,7 +795,18 @@
       "다라라사미",
       "란나문화부흥"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/ru.mp3"
+    }
   },
   {
     "id": "cmu_reservoir",
@@ -534,7 +823,8 @@
       "황금사슴의전설",
       "캄댕왕자"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {}
   },
   {
     "id": "chet_lin",
@@ -552,7 +842,18 @@
       "쿤위랑카",
       "차마테위여왕"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/chet_lin/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/chet_lin/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/chet_lin/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/chet_lin/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/chet_lin/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/chet_lin/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/chet_lin/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/chet_lin/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/chet_lin/ru.mp3"
+    }
   },
   {
     "id": "doi_chiang_dao",
@@ -570,7 +871,8 @@
       "도이치앙다오의수호신",
       "도시운명연장의식"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {}
   },
   {
     "id": "san_pa_tong",
@@ -588,7 +890,18 @@
       "고산족",
       "다민족신앙공동체"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/san_pa_tong/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/san_pa_tong/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/san_pa_tong/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/san_pa_tong/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/san_pa_tong/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/san_pa_tong/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/san_pa_tong/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/san_pa_tong/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/san_pa_tong/ru.mp3"
+    }
   },
   {
     "id": "doi_inthanon",
@@ -605,6 +918,17 @@
       "태국최고봉",
       "인타위차야논왕"
     ],
-    "photos": []
+    "photos": [],
+    "audioURLs": {
+      "ko": "https://chiangmai-audio.b-cdn.net/doi_inthanon/ko.mp3",
+      "en": "https://chiangmai-audio.b-cdn.net/doi_inthanon/en.mp3",
+      "zh": "https://chiangmai-audio.b-cdn.net/doi_inthanon/zh.mp3",
+      "th": "https://chiangmai-audio.b-cdn.net/doi_inthanon/th.mp3",
+      "es": "https://chiangmai-audio.b-cdn.net/doi_inthanon/es.mp3",
+      "de": "https://chiangmai-audio.b-cdn.net/doi_inthanon/de.mp3",
+      "fr": "https://chiangmai-audio.b-cdn.net/doi_inthanon/fr.mp3",
+      "it": "https://chiangmai-audio.b-cdn.net/doi_inthanon/it.mp3",
+      "ru": "https://chiangmai-audio.b-cdn.net/doi_inthanon/ru.mp3"
+    }
   }
 ]
