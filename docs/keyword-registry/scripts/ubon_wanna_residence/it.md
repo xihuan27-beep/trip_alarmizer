@@ -1,0 +1,17 @@
+Sono Ubon Wanna. Sono nata come figlia minore del re Kawilorot di Chiang Mai. Oggi voglio raccontarti di questa residenza, dove ho vissuto. La mia vita ebbe molto meno a che fare con la regalità che con gli affari — e con l'essere un medium spirituale.
+
+Prima, lascia che ti dica che tipo di persona ero. Qui gestivo contemporaneamente un laboratorio tessile, un'attività di legname, intaglio del legno, una fabbrica di lacca e una distilleria. Mantenevo rapporti commerciali con mercanti provenienti da America, Gran Bretagna, Scandinavia e Birmania, e parlavo un inglese piuttosto buono. Una volta feci una dimostrazione di tessitura a un visitatore inglese proprio su questa veranda — e ricevetti lì per lì un ordine di pizzo inglese. Sarò anche nata principessa, ma ho vissuto la mia vita come un'imprenditrice internazionale, di diritto mio.
+
+C'è dell'altro che vale la pena menzionare qui. Fui io a scoprire personalmente che Bunthawong, un ex uparat — un viceré —, era morto per un'overdose di oppio. Più tardi, però, divenni il medium spirituale della mia famiglia, e in quel ruolo fui io a evocare il suo spirito e a dargli voce. La donna che aveva scoperto la sua morte divenne, col tempo, colei che parlava per lui.
+
+Come medium, incanalai il suo spirito e raccomandai di abolire la tassa sui liquori — il monopolio sull'arak. Sorprendentemente, nel 1884 il governo siamese la abolì davvero. Fu un caso raro in cui un rituale spirituale portò a un vero cambiamento politico.
+
+Nel 1881 accadde qualcos'altro — lo stesso anno in cui fu assassinato lo zar Alessandro II di Russia, se questo ti aiuta a collocarlo nel tempo. Rimasi coinvolta in quello che in seguito venne chiamato il caso Mong Pong Ya. L'uomo che amavo era un mercante birmano con lo status di suddito britannico, e fu trovato morto in circostanze sospette. Finii per essere una dei dieci imputati processati in un tribunale extraterritoriale. Fu un caso in cui affari, amore e diritto internazionale si intrecciarono tutti insieme.
+
+Nel 1884, mia sorella Thip Kesorn si ammalò gravemente. Attorno alla sua malattia scoppiò una lotta di potere tra la fazione tradizionale dei medium spirituali e chi favoriva la medicina occidentale. Fu un periodo caotico — riti spirituali e trattative sulla resistenza fiscale si svolgevano nello stesso momento. La sua morte non fu solo una perdita personale per me; fu anche una tempesta politica.
+
+Quando mia sorella morì, accolsi la mia giovane nipote, Dara Rasami. Allora aveva solo undici anni. Ma, per come andarono le cose, quello stesso anno morii anch'io. Perdere mia sorella, accogliere mia nipote, e lasciare io stessa questo mondo — tutto nel giro di un solo anno turbolento.
+
+Ecco però la parte che trovo interessante — la storia non finisce lì. Dopo che me ne andai, i miei stessi figli, Kawiloweng e Lenu Wanna, furono a loro volta accolti e cresciuti da quella stessa nipote, Dara Rasami, una volta diventata adulta. Proprio come io mi ero presa cura di lei, lei crebbe e si prese cura dei miei figli. Attraverso una generazione, quella cura tornò esattamente indietro. Il mio interesse per la tessitura passò a lei nello stesso modo.
+
+Ripensandoci, la mia vita fu un intreccio di sangue reale e audacia mercantile, il mistero e lo scandalo dell'essere un medium spirituale, e un profondo senso di responsabilità verso la famiglia. Fu breve e intensa, ma la sua traccia continuò — fino alla generazione successiva, e a quella dopo ancora.

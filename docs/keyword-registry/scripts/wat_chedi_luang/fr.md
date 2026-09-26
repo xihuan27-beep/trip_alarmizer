@@ -1,0 +1,15 @@
+Je suis un moine qui veille sur ce temple, Wat Chedi Luang, depuis très longtemps. Honnêtement, je ne saurais vous dire depuis quand exactement — c'est dire à quel point cette histoire est ancienne. Aujourd'hui, laissez-moi vous parler de ce temple.
+
+Vous le connaissez aujourd'hui sous le nom de "Wat Chedi Luang", mais avant ce nom, il en a porté plusieurs autres. Wat Chotikaram, Wat Ratchaphotthikan, Wat Ratchakutaram — les gens l'appelaient différemment à chaque époque. Sous le nom de "Chotikaram", il apparaît même dans la légende du Bouddha qui parcourut le monde entier, comme l'un des huit temples sacrés.
+
+Comme d'autres temples Lan Na, celui-ci place son chedi au centre, la salle principale alignée vers l'est sur le même axe. Ce n'est pas qu'une question d'architecture — c'est la cosmologie bouddhiste centrée sur le mont Meru, associée à une astrologie construite autour de neuf planètes, inscrite dans la pierre.
+
+Mais l'événement le plus important de l'histoire de ce temple s'est produit en 1545 — à peu près à l'époque où le concile de Trente venait de s'ouvrir en Europe, si cela peut vous aider à vous situer. Cette année-là, un violent séisme frappa la région, et la flèche du gigantesque chedi de ce temple — jadis l'une des plus hautes structures de tout le Lan Na — s'effondra. Elle n'a jamais été entièrement restaurée depuis. Cette silhouette "inachevée" que vous voyez aujourd'hui est en réalité la trace laissée par cette catastrophe, des siècles plus tôt.
+
+Mais voici la partie intéressante — ce temple, avec sa tour à demi détruite, a fini par devenir le centre spirituel de la ville. En 1800, le roi Kawila y a transféré le pilier de la ville, appelé Inthakhin, depuis Wat Sadue Mueang. Dès ce jour, ce temple imparfait a fini par occuper la place la plus centrale de toute la ville. Aujourd'hui encore, ce pilier Inthakhin compte, aux côtés de la relique du Doi Suthep et de la statue de Bouddha Phra Singh, parmi les trois objets les plus sacrés de Chiang Mai.
+
+Un autre changement survint dans les années 1960. Lorsque la mairie prit officiellement en charge la cérémonie Inthakhin, les éléments de médiumnité qui en faisaient à l'origine partie furent séparés et transférés vers un lieu appelé Jaeng Sri Phum. Ce qui avait été un seul et même rite se scinda, avec le temps, en deux branches — une cérémonie bouddhiste officielle d'un côté, et une croyance populaire en la médiumnité de l'autre.
+
+En y repensant, ce temple est un lieu véritablement ironique. Sa plus haute tour s'est effondrée et n'a plus jamais été entière — et pourtant, c'est précisément après cette imperfection qu'il a gagné la place la plus sacrée de toute la ville. Ce n'est pas la perfection, mais la blessure elle-même, qui en a fait le centre.
+
+Ah, encore une chose — la tradition de médiumnité qui s'est séparée de la cérémonie Inthakhin dans les années 1960 se poursuit encore aujourd'hui, en un lieu appelé Jaeng Sri Phum. Si vous comptez vous y rendre aussi, vous pourrez y entendre davantage.

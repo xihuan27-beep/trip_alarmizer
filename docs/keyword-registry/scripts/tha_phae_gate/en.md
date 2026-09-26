@@ -1,0 +1,7 @@
+I'm one of the war captives brought here long ago from Chiang Saen. Today let me tell you my story, tied to this gate, Tha Phae Gate.
+
+I was originally from Chiang Saen. But after losing a war, I was captured and forcibly resettled here, near the southeast wall, right by this Tha Phae Gate. We weren't the only ones, either — a Mon community settled right nearby as well. People who never chose to be brought here somehow ended up becoming neighbors.
+
+A very long time later, in 2002, something interesting happened. Along the stretch of road from this Tha Phae Gate to Wat Upakut, a "Walking Street" began — a market held every Sunday. This spot, once a place people like me were forced to settle in unfamiliar land, has now become a bustling, crowded market street. To me, that feels strangely fitting.
+
+And starting in 2013, there's another sight I've gotten to watch. A ritual called "Honoring King Mangrai" was revived, and every year on April 11th and 12th, a procession sets out from this very gate, the eastern starting point, and makes its way to the Three Kings Monument. The number of people joining the fingernail dance has grown too, from 150 in 2014 to 850 by 2019. When I think about it, it's rather ironic. I was dragged here against my will and forced to settle near this gate, yet now people walk out from this same gate entirely of their own free will, on their way to pay their respects to a king.

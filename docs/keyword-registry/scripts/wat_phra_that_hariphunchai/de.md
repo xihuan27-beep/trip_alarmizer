@@ -1,0 +1,7 @@
+Ich bin Camadevi. Man sagt, ich sei die Königin gewesen, die Hariphunchai gegründet und regiert hat. Heute möchte ich dir meine Geschichte erzählen, die mit diesem Tempel verbunden ist, dem Wat Phra That Hariphunchai.
+
+Die Art, wie ich zur Herrscherin dieses Landes wurde, war, ehrlich gesagt, nicht ganz fair. Es gab einst einen Speerwurf-Wettkampf um dieses Land gegen einen Riesen namens Wiranga, und ich besiegte ihn mit einer List. Ich gebe zu, das war keine ehrliche Methode. Aber genau so sicherte ich mir die Kontrolle über diesen Ort, und so konnte ich Hariphunchai gründen.
+
+Selbst das Königreich, das ich auf diese Weise errichtete, hielt nicht ewig. Später eroberte ein König namens Mangrai Hariphunchai. Und er nahm die beiden kostbarsten Schätze mit, die genau hier, in diesem Tempel, aufbewahrt worden waren. Der eine war Phra Setangkhamani, aus weißer Jade geschnitzt, der andere die Nalagiri-Buddha-Statue im indischen Gupta-Stil. Ich verstehe besser als jeder andere, was es bedeutet, wenn ein Eroberer das Heiligste aus einem eroberten Land mitnimmt. Es ist nicht nur das Mitnehmen eines Gegenstands — es ist eine Erklärung: "Die geistige Macht dieses Landes gehört jetzt auch mir." Das Kostbarste, was mein Königreich besaß, gehörte auf diese Weise am Ende jemand anderem.
+
+Ich habe gehört, dass diese beiden Buddha-Statuen heute in einem Tempel in Chiang Mai aufbewahrt werden. Wenn du neugierig bist, könntest du auch dorthin gehen und sie dir ansehen.

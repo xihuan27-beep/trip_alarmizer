@@ -1,0 +1,5 @@
+Je suis Thera Jan. J'étais un moine érudit. Aujourd'hui, laisse-moi te raconter une courte histoire sur ce temple, le Wat Chet Yot.
+
+J'ai jadis écrit ce qu'on appelait un "guide de conduite" pour le roi Tilokarat. Et ce même roi Tilokarat est aussi celui qui a fait construire ce temple, le Wat Chet Yot. En pensant que l'homme que j'ai conseillé autrefois a fini par laisser derrière lui un temple aussi grandiose, cela me procure un sentiment plutôt étrange.
+
+Même après ma mort, l'histoire de ce temple s'est poursuivie. En 1511 — pour te situer dans le temps, c'était juste à l'époque où Michel-Ange était sur le point d'achever le plafond de la chapelle Sixtine —, une cérémonie de consécration des limites s'est tenue dans ce temple. Mais parmi la vingtaine de moines inscrits comme participants, aucun, dit-on, n'était originaire de Chiang Mai. Des chercheurs se sont plus tard disputés au sujet de cette liste, débattant de qui aurait bien pu être l'auteur d'un certain vieux document. Pour être honnête, je ne connais pas non plus la réponse. J'étais simplement quelqu'un qui connaissait le roi ayant fait construire ce temple.

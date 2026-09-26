@@ -1,0 +1,5 @@
+Ich bin Thera Jan. Ich war ein gelehrter Mönch. Heute möchte ich dir eine kurze Geschichte über diesen Tempel erzählen, den Wat Chet Yot.
+
+Ich schrieb einst etwas, das man "Verhaltensleitfaden" nannte, für König Tilokarat. Und genau dieser König Tilokarat war es auch, der diesen Tempel, den Wat Chet Yot, erbauen ließ. Wenn ich daran denke, dass der Mann, den ich einst beraten habe, später einen so prächtigen Tempel hinterließ, überkommt mich ein seltsames Gefühl.
+
+Auch nach meinem Tod ging die Geschichte dieses Tempels weiter. Im Jahr 1511 — um dir eine zeitliche Einordnung zu geben: Das war genau zu der Zeit, als Michelangelo die Deckenmalerei der Sixtinischen Kapelle bald vollenden sollte — fand an diesem Tempel eine Grenzweihe-Zeremonie statt. Doch unter den etwa zwanzig Mönchen, die als Teilnehmer aufgeführt sind, soll kein Einziger aus Chiang Mai gewesen sein. Gelehrte stritten später gerade über diese Liste, um herauszufinden, wer wohl der Verfasser einer bestimmten alten Aufzeichnung gewesen sein könnte. Ehrlich gesagt kenne ich die Antwort auch nicht. Ich war einfach jemand, der zufällig den König kannte, der diesen Tempel erbaute.

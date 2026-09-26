@@ -1,0 +1,7 @@
+Je suis le chedi de Wat Ku Tao, le stūpa de ce temple. Aujourd'hui, laisse-moi te raconter comment j'ai obtenu mon nom.
+
+Comme tu peux le voir, mon corps est composé de parties rondes empilées les unes sur les autres. Aux yeux de ceux qui me regardent, j'ai l'air d'un tas de courges empilées. C'est pourquoi les gens ont commencé à m'appeler "Ku Tao", ce qui signifie "stūpa-courge". Comparé aux tours pointues des autres temples, je suis un peu rondouillard et d'apparence simple. Pourtant, j'aime plutôt bien ma forme.
+
+Mais ne me sous-estime pas juste parce que j'ai l'air si modeste. Il existe un ancien registre en neuf volumes qui contient une légende appelée "le Bouddha qui parcourut le monde". Dans cette histoire, j'apparais sous le nom de "Weluwanaram". Je suis compté parmi les huit temples prophétisés comme étant les plus sacrés du monde. J'ai beau avoir l'air rond et sans prétention de l'extérieur, je possède en réalité un statut assez distingué.
+
+Il y a aussi une autre histoire derrière mon apparence. À partir d'environ 1856 — pour te situer dans le temps, c'était juste à l'époque où la guerre de Crimée venait de se terminer avec le traité de Paris —, le commerce du bois de teck avec les Britanniques s'est intensifié, et des populations birmanes, shan et pa-o ont commencé à affluer en grand nombre dans cette région. En finançant des œuvres religieuses ici, elles ont apporté avec elles un style décoratif birman appelé konbaung. Ces ornements distinctifs que tu peux encore voir sur mon corps aujourd'hui sont en fait arrivés à cette même époque.

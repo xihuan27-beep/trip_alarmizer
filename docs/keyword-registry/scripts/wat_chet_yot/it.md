@@ -1,0 +1,5 @@
+Sono Thera Jan. Ero un monaco erudito. Oggi voglio raccontarti una breve storia su questo tempio, il Wat Chet Yot.
+
+Un tempo scrissi qualcosa chiamato "guida alla condotta" per il re Tilokarat. E proprio quel re Tilokarat fu anche colui che fece costruire questo tempio, il Wat Chet Yot. Pensando che l'uomo che un tempo consigliai abbia poi lasciato dietro di sé un tempio così maestoso, provo una sensazione piuttosto singolare.
+
+Anche dopo la mia morte, la storia di questo tempio è continuata. Nel 1511 — per collocarti nel tempo, fu proprio quando Michelangelo stava per completare la volta della Cappella Sistina — si tenne in questo tempio una cerimonia di consacrazione dei confini. Ma tra la ventina di monaci elencati come partecipanti, si dice che non ce ne fosse nemmeno uno originario di Chiang Mai. Gli studiosi in seguito discussero proprio su quell'elenco, dibattendo su chi potesse essere l'autore di un certo antico documento. Sinceramente, nemmeno io conosco la risposta. Ero semplicemente qualcuno che conosceva il re che fece costruire questo tempio.

@@ -1,0 +1,23 @@
+Hello. I'm Khruba Srivichai. I'm a monk, though people around here used to call me "the Tiger Monk." Today let me tell you about this mountain, Doi Suthep.
+
+Let's start with something very old. Long before the city of Chiang Mai existed, a Lua people lived in an area called Hang Dong, at the foot of this mountain. People called them "Chiang Mai's original people," and a later inscription even records that they were exempted from forced labor in 1831. So this whole mountain area was inhabited long before the Lan Na kingdom was ever founded.
+
+Where does the mountain's name come from? According to legend, this mountain was once home to a pair of cannibal spirits, Pu Sae and Ya Sae. The Buddha tamed them and turned them gentle, and their son became a hermit who practiced here on the mountain. That hermit's name was Sudeva — and the mountain came to be called "Doi Suthep" after him.
+
+There's one more legend set on this mountain. It's about a spear-throwing contest between Queen Camadevi and a king named Wiranga. In the version told around here, the queen didn't win fair and square — she sent Wiranga a cap made from her own menstrual undergarment, disguised as a token of love, to sap his strength before defeating him. This mountain is said to be where that spear-throw began. (By the way, this story is told a little differently in different places — some versions describe a simple military victory instead.)
+
+The story of how this mountain became a temple site is a good one too. A monk named Sumana Thera brought a relic here, and while washing it, something miraculous happened — the relic suddenly multiplied into two or three pieces. One was loaded onto the back of a white elephant and set free. The elephant climbed this very mountain on its own, and when it reached the summit, it trumpeted three times and died right there. People built a temple on the exact spot where the elephant stopped. That's the temple you're standing at right now.
+
+In 1788 and again in 1806, King Kawila offered a royal parasol here, in two separate stages. What's interesting is that in 1788, he hadn't even officially retaken Chiang Mai yet — he was giving his devotion to this mountain before his political victory was even settled.
+
+This mountain is counted, alongside the Phra Singh Buddha image and the Inthakhin pillar, among Chiang Mai's three most sacred objects. That tells you how special a place it holds in the city's entire spiritual life.
+
+In 1909, Queen Dara Rasami had memorial plaques installed on this mountain, inscribed with her parents' names and her own — around the time Louis Blériot became the first person to fly across the English Channel, if that helps place it.
+
+*(Here, let me share a story in a very different key. There was a woman named Buaban. Betrayed by a flirtatious official she'd given her heart to, she ended up jumping to her death at a waterfall on this mountain. Her sad story is still passed down in song today. Alongside all these grand royal tales, this mountain also carries stories like hers — personal, and tragic.)*
+
+Now it's time for my part of the story. On November 9th, 1934 — right in the middle of Japan's colonial rule over Korea, if that helps place the era — I began building a new road up this mountain with my followers: the Huay Kaew Road. About five thousand people volunteered their labor every single day, and the whole road was finished in just five months and twenty-two days. Once the new road opened, the old pilgrimage route lost almost all its foot traffic overnight. But here's the thing — the very ability to mobilize thousands of people like that is part of what made the authorities suspicious of me. The debate over why I was arrested has a lot to do with the sheer organizing power I showed by building this road.
+
+Something else happened in 1986. When plans surfaced for a cable car up this mountain, opponents held a Buddhist ritual in front of the Three Kings Monument to defend the mountain's sacredness. It's kind of funny, if you think about it — my own road was, once upon a time, also a human intervention on this mountain. Yet half a century later, the cable car ran into fierce opposition precisely for "damaging" that same sacredness. The same mountain, two different interventions, and two very different responses depending on the era.
+
+Oh, one more thing — along the old pilgrimage route I built, there's a small temple called Wat Pha Lat. You'll find my mark there too, a tiger carved into the rock, and it's also tied up in the story behind my arrest. If you're planning to visit there too, you can hear more of my story there as well.

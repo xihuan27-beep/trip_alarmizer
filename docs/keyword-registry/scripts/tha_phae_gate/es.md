@@ -1,0 +1,7 @@
+Soy uno de los prisioneros de guerra traídos aquí hace mucho tiempo desde Chiang Saen. Hoy quiero contarte mi historia, ligada a esta puerta, la Puerta Tha Phae.
+
+Yo era originalmente de Chiang Saen. Pero tras perder una guerra, me capturaron y me reasentaron a la fuerza aquí, cerca de la muralla del sureste, justo junto a esta Puerta Tha Phae. Y no fuimos los únicos: una comunidad mon también se asentó muy cerca. Personas que nunca eligieron venir aquí acabaron, de algún modo, convirtiéndose en vecinas.
+
+Mucho tiempo después, en 2002, ocurrió algo interesante. A lo largo del tramo que va desde esta Puerta Tha Phae hasta el templo Wat Upakut, comenzó una "calle peatonal", un mercado que se celebra cada domingo. Este lugar, donde antes gente como yo fue obligada a asentarse en tierra desconocida, se ha convertido ahora en una bulliciosa y concurrida calle de mercado. A mí me parece extrañamente adecuado.
+
+Y desde 2013, he podido presenciar otra escena más. Se revivió un ritual llamado "Honrando al rey Mangrai", y cada año, el 11 y 12 de abril, una procesión sale de esta misma puerta, el punto de partida oriental, y se dirige hasta el Monumento a los Tres Reyes. El número de personas que participan en la danza de las uñas también ha crecido, de 150 en 2014 a 850 en 2019. Pensándolo bien, resulta bastante irónico. A mí me trajeron a la fuerza para asentarme cerca de esta puerta, y ahora la gente sale caminando de esa misma puerta por su propia voluntad, para rendir homenaje a un rey.

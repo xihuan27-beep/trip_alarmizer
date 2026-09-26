@@ -1,0 +1,7 @@
+I'm the guardian spirit who dwells right here, at Jaeng Sri Phum — the northeast corner of Chiang Mai's city wall. Today let me tell you the story tied to this corner.
+
+This wall wasn't always mine alone to watch over. It started as a triple earthen rampart, then around 1345 it was rebuilt into a single wall of brick with a moat. It kept changing after that too. Between 1495 and 1525, when gunpowder weapons became something to truly fear, the wall was heavily reinforced, and after 1550 another wall was added on the outside. I watched all of that change from this very corner.
+
+But what I remember most clearly happened in 1465. To place it in time, that was about ten years after Gutenberg printed Europe's first Bible. King Tilokarat tore down the wall right at this northeast corner, right where I stand, and built a palace here. As the story goes, a Burmese monk sent from Ayutthaya had talked him into it — a quiet act of sabotage dressed up in sacred reasoning. I watched the wall's most important corner come down, right here.
+
+Then, a long time later, in the 1960s, something interesting happened. When city hall took over running the Inthakhin ceremony, the part of it where mediums speak with the spirits was split off and moved here to this corner. Ever since then, I've welcomed those mediums here every year. When people want to speak with the spirits deep within the wall, this corner, where I am, is where they end up coming.

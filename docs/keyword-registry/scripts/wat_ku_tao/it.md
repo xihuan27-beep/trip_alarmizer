@@ -1,0 +1,7 @@
+Sono il chedi di Wat Ku Tao, lo stupa di questo tempio. Oggi voglio raccontarti come ho ottenuto il mio nome.
+
+Come puoi vedere, il mio corpo è formato da pezzi rotondi impilati uno sull'altro. Agli occhi di chi mi guarda, sembro un mucchio di zucche impilate. Per questo la gente ha iniziato a chiamarmi "Ku Tao", che significa "stupa a zucca". Rispetto alle guglie appuntite di altri templi, sono un po' paffuto e dall'aspetto semplice. Eppure, mi piace parecchio la mia forma.
+
+Ma non sottovalutarmi solo perché sembro così modesto. Esiste un antico registro in nove volumi che contiene una leggenda chiamata "il Buddha che girò il mondo". In quella storia, compaio con il nome di "Weluwanaram". Sono annoverato tra gli otto templi profetizzati come i più sacri del mondo. Posso sembrare rotondo e senza pretese all'esterno, ma in realtà ho uno status piuttosto ragguardevole.
+
+C'è anche un'altra storia dietro il mio aspetto. A partire dal 1856 circa — per collocarti nel tempo, fu proprio quando la guerra di Crimea si era appena conclusa con il Trattato di Parigi — il commercio del legno di teak con i britannici si intensificò, e genti birmane, shan e pa-o iniziarono ad arrivare in gran numero in questa zona. Sponsorizzando opere religiose qui, portarono con sé uno stile decorativo birmano chiamato konbaung. Quelle decorazioni distintive che puoi ancora vedere sul mio corpo oggi sono in realtà arrivate proprio in quel periodo.

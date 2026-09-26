@@ -1,0 +1,7 @@
+Soy el chedi de Wat Ku Tao, la estupa de este templo. Hoy quiero contarte cómo conseguí mi nombre.
+
+Como puedes ver, mi cuerpo tiene forma de piezas redondas apiladas una sobre otra. A la gente que me mira, le parece que soy como un montón de calabazas apiladas. Por eso empezaron a llamarme "Ku Tao", que significa "estupa calabaza". Comparado con las torres puntiagudas de otros templos, soy un poco rechoncho y de aspecto sencillo. Aun así, me gusta bastante mi forma.
+
+Pero no me subestimes solo por parecer tan humilde. Existe un antiguo registro de nueve volúmenes que contiene una leyenda llamada "el Buda que recorrió el mundo". En esa historia, aparezco bajo el nombre de "Weluwanaram". Se me cuenta entre los ocho templos profetizados como los más sagrados del mundo. Puede que por fuera parezca redondo y sin pretensiones, pero en realidad ostento un estatus bastante distinguido.
+
+También hay otra historia detrás de mi apariencia. Desde alrededor de 1856 —para situarte en el tiempo, fue justo cuando la Guerra de Crimea acababa de terminar con el Tratado de París— el comercio de madera de teca con los británicos se intensificó, y gente birmana, shan y pa-o comenzó a llegar en gran número a esta zona. Al patrocinar obras religiosas aquí, trajeron consigo un estilo decorativo birmano llamado Konbaung. Esas decoraciones distintivas que aún puedes ver en mi cuerpo hoy en día llegaron, de hecho, en aquella misma época.

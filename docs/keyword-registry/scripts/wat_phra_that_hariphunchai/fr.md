@@ -1,0 +1,7 @@
+Je suis Camadevi. On raconte que je suis la reine qui a fondé et gouverné Hariphunchai. Aujourd'hui, laisse-moi te raconter mon histoire, liée à ce temple, le Wat Phra That Hariphunchai.
+
+La manière dont j'en suis venue à régner sur cette terre n'a pas été tout à fait honnête, pour être franche. Il y eut jadis un concours de lancer de lance pour cette terre contre un géant nommé Wiranga, et j'ai utilisé une ruse pour le vaincre. J'admets que ce n'était pas un procédé honnête. Mais c'est ainsi que j'ai assuré mon contrôle sur ce lieu, et que j'ai pu fonder Hariphunchai.
+
+Même le royaume que j'ai bâti de cette manière n'a pas duré éternellement. Plus tard, un roi nommé Mangrai a conquis Hariphunchai. Et il a emporté les deux trésors les plus précieux qui se trouvaient ici même, dans ce temple. L'un était Phra Setangkhamani, sculpté dans du jade blanc, l'autre le Bouddha Nalagiri, réalisé dans le style Gupta indien. Je comprends mieux que quiconque ce que signifie, pour un conquérant, le fait d'emporter l'objet le plus sacré d'une terre conquise. Ce n'est pas seulement emporter un objet — c'est une déclaration : "le pouvoir spirituel de cette terre m'appartient désormais aussi." Ce que mon royaume avait de plus précieux a fini par appartenir à quelqu'un d'autre.
+
+J'ai entendu dire que ces deux statues de Bouddha sont aujourd'hui conservées dans un temple de Chiang Mai. Si tu es curieux, tu pourrais peut-être aller les voir là-bas aussi.

@@ -1,0 +1,7 @@
+Je suis l'un des prisonniers de guerre amenés ici il y a longtemps depuis Chiang Saen. Aujourd'hui, laisse-moi te raconter mon histoire, liée à cette porte, la porte Tha Phae.
+
+J'étais originaire de Chiang Saen. Mais après avoir perdu une guerre, j'ai été capturé et réinstallé de force ici, près du mur sud-est, juste à côté de cette porte Tha Phae. Nous n'étions pas les seuls non plus : une communauté môn s'est également installée tout près. Des gens qui n'avaient jamais choisi de venir ici sont ainsi, d'une certaine manière, devenus voisins.
+
+Bien plus tard, en 2002, il s'est passé quelque chose d'intéressant. Le long du tronçon allant de cette porte Tha Phae jusqu'au Wat Upakut, une "rue piétonne" a vu le jour — un marché qui se tient chaque dimanche. Cet endroit, où des gens comme moi avaient autrefois été forcés de s'installer en terre étrangère, est aujourd'hui devenu une rue marchande animée et bondée. Pour moi, cela semble étrangement approprié.
+
+Et depuis 2013, j'ai pu assister à un autre spectacle. Un rituel appelé "Honorer le roi Mangrai" a été relancé, et chaque année, les 11 et 12 avril, un cortège part de cette même porte, le point de départ oriental, et se dirige vers le Monument des Trois Rois. Le nombre de participants à la danse des ongles a lui aussi augmenté, passant de 150 en 2014 à 850 en 2019. Quand j'y pense, c'est plutôt ironique. On m'a amené ici de force pour m'installer près de cette porte, et maintenant les gens partent de cette même porte de leur plein gré, pour aller rendre hommage à un roi.

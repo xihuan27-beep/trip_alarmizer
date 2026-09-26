@@ -10,6 +10,8 @@ final class LocationManager: NSObject, ObservableObject {
 
     @Published var userLocation: CLLocationCoordinate2D?
     @Published var authorizationStatus: CLAuthorizationStatus
+    /// Set only when the user taps the geofence-entry notification — entering
+    /// a region alone never opens the site popup or starts playback.
     @Published var triggeredSite: HistoricalSite?
 
     private let manager = CLLocationManager()
@@ -24,6 +26,7 @@ final class LocationManager: NSObject, ObservableObject {
         manager.allowsBackgroundLocationUpdates = true
         manager.pausesLocationUpdatesAutomatically = false
 
+        UNUserNotificationCenter.current().delegate = self
         UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge]) { _, _ in }
     }
 
@@ -68,6 +71,7 @@ final class LocationManager: NSObject, ObservableObject {
         content.title = site.name
         content.body = site.teaser
         content.sound = .default
+        content.userInfo = ["siteID": site.id]
         let request = UNNotificationRequest(identifier: site.id, content: content, trigger: nil)
         UNUserNotificationCenter.current().add(request)
     }
@@ -88,12 +92,37 @@ extension LocationManager: CLLocationManagerDelegate {
 
     func locationManager(_ manager: CLLocationManager, didEnterRegion region: CLRegion) {
         guard let site = sites.first(where: { $0.id == region.identifier }) else { return }
-        triggeredSite = site
         sendLocalNotification(for: site)
         refreshMonitoredRegions()
     }
 
     func locationManager(_ manager: CLLocationManager, didExitRegion region: CLRegion) {
         refreshMonitoredRegions()
+    }
+}
+
+extension LocationManager: UNUserNotificationCenterDelegate {
+    /// Lets the geofence-entry notification show as a banner even while the
+    /// app is in the foreground, so there's always something to tap.
+    func userNotificationCenter(
+        _ center: UNUserNotificationCenter,
+        willPresent notification: UNNotification,
+        withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void
+    ) {
+        completionHandler([.banner, .sound])
+    }
+
+    /// The user tapped the notification — this, and only this, is what
+    /// opens the site popup and makes playback available.
+    func userNotificationCenter(
+        _ center: UNUserNotificationCenter,
+        didReceive response: UNNotificationResponse,
+        withCompletionHandler completionHandler: @escaping () -> Void
+    ) {
+        if let siteID = response.notification.request.content.userInfo["siteID"] as? String,
+           let site = sites.first(where: { $0.id == siteID }) {
+            triggeredSite = site
+        }
+        completionHandler()
     }
 }

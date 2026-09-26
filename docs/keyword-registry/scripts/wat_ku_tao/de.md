@@ -1,0 +1,7 @@
+Ich bin der Chedi von Wat Ku Tao — die Stupa dieses Tempels. Heute möchte ich dir erzählen, wie ich zu meinem Namen kam.
+
+Wie du sehen kannst, besteht mein Körper aus runden Teilen, die übereinandergestapelt sind. Für Menschen, die mich betrachten, sehe ich offenbar aus wie ein Stapel Kürbisse. Deshalb begannen die Leute, mich "Ku Tao" zu nennen, was "Kürbis-Stupa" bedeutet. Im Vergleich zu den spitzen Türmen anderer Tempel bin ich etwas rundlicher und schlichter. Trotzdem mag ich meine Form durchaus.
+
+Aber unterschätze mich nicht nur, weil ich so bescheiden aussehe. Es gibt eine alte, neunbändige Aufzeichnung, die eine Legende namens "der Buddha, der die Welt bereiste" enthält. In dieser Geschichte trete ich unter dem Namen "Weluwanaram" auf. Ich zähle zu den acht Tempeln, die als die heiligsten der Welt prophezeit wurden. Ich mag von außen rund und unscheinbar wirken, aber ich habe tatsächlich einen recht bedeutenden Status.
+
+Es gibt noch eine weitere Geschichte hinter meinem Aussehen. Ab etwa 1856 — um dir eine zeitliche Einordnung zu geben: Das war genau die Zeit, als der Krimkrieg gerade mit dem Pariser Frieden zu Ende gegangen war — nahm der Handel mit Teakholz mit den Briten zu, und birmanische, Shan- und Pa-O-Menschen begannen, in großer Zahl in diese Gegend zu kommen. Während sie hier religiöse Werke förderten, kam mit ihnen auch ein birmanischer Dekorationsstil namens Konbaung hierher. Jene markanten Verzierungen, die du noch heute an meinem Körper sehen kannst, kamen tatsächlich genau in jener Zeit hinzu.

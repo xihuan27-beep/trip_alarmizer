@@ -1,0 +1,25 @@
+Ciao. Sono Khruba Srivichai. Sono un monaco, anche se qui per un periodo mi chiamavano "il monaco tigre". Lascia che ti racconti del tempio in cui ho passato più tempo in tutta la mia vita: Wat Phra Singh.
+
+Prima, una curiosità. Questo posto, oggi considerato uno dei templi più sacri di Chiang Mai — sai cos'era prima? Semplicemente un mercato. Fino alla metà del Trecento, quando qui venne finalmente costruito un tempio.
+
+Il tempio prende il nome dal suo tesoro principale, la statua del Buddha Phra Singh. Su questa statua esiste una leggenda. Si racconta che nel 1256 stesse viaggiando via nave da Ceylon — l'odierno Sri Lanka — quando la nave naufragò. La statua, dice la leggenda, galleggiò alla deriva per tre giorni prima di approdare sulla costa di Nakhon Si Thammarat.
+
+I documenti storici però raccontano una storia leggermente diversa. La statua si trovava in origine a Kamphaeng Phet, poi un uomo di nome Thao Maha Phrom la portò a Chiang Rai, e suo nipote, il re Saen Mueang Ma, la condusse a Chiang Mai tra il 1385 e il 1390. Più o meno in quello stesso periodo, in Europa, Geoffrey Chaucer aveva appena iniziato a scrivere i Racconti di Canterbury — una coincidenza curiosa, visto che anche quella è una raccolta di racconti e leggende tramandati di bocca in bocca. Pensa alla leggenda e ai documenti storici come a due capitoli diversi della stessa storia, non come a una contraddizione.
+
+Ecco un altro dettaglio curioso. Quando la statua di Phra Singh fu portata a Chiang Rai, viaggiava in realtà insieme a una "statua sorella": il Buddha di Smeraldo, oggi considerato l'oggetto più sacro di tutta la Thailandia. Quella statua rimase per un certo periodo nascosta sotto uno strato di stucco a Chiang Rai, all'insaputa di tutti, finché non fu scoperta durante il regno del re Tilok. Oggi si trova nel palazzo reale di Bangkok, ma un tempo era nascosta non lontano da qui.
+
+Wat Phra Singh è annoverato, insieme alla reliquia del Doi Suthep e al pilastro di Inthakhin, tra i tre oggetti più sacri di Chiang Mai. Questo la dice lunga sul posto speciale che questo tempio occupava nell'intero sistema spirituale della città.
+
+Nel 1504 qui successe un'altra cosa. Il re Phaya Kaew fece fondere un'enorme statua del Buddha, chiamata Phra Chao Kao Tue, pensata all'inizio come immagine principale proprio di questo tempio. Perché venne realizzata? A quell'epoca c'era una vera tensione tra due sette rivali, Wat Suan Dok e Wat Pa Daeng, e la statua doveva essere un simbolo di riconciliazione tra loro. Peccato che... si rivelò troppo pesante per essere trasportata fin qui. Una statua gigantesca pensata per simboleggiare la riconciliazione, che non riuscì nemmeno a raggiungere la propria destinazione per colpa del suo stesso peso. Pensandoci oggi, fa quasi ridere, no? A proposito, i templi Lan Na allineano il chedi e la sala principale lungo un asse est-ovest — non è solo architettura, è la cosmologia buddhista fatta pietra.
+
+Bene, ora tocca alla mia parte della storia. Il mio legame con questo tempio non fu un caso. C'era una regina di nome Dara Rasami, famosa per aver difeso la tradizione reale per tutta la vita. La gente parla spesso di lei e di me come simboli completamente opposti — lei, custode della tradizione; io, il ribelle che si schierò dalla parte del popolo. Ma in realtà fu lei a scegliere personalmente me per ricostruire proprio questo tempio. Affidò altri templi ad altri monaci, ma questo lo affidò solo a me. Curioso, no? Due persone descritte come simboli opposti, in realtà così intrecciate tra loro.
+
+Così diventai l'abate di fatto di questo tempio, e per tutti gli anni venti e trenta ne feci la mia base, guidando un movimento di riforma che in seguito venne chiamato l'"Ordine della Tigre". Questo fu il luogo dove ho davvero vissuto, insegnato, messo radici.
+
+Tra il 1935 e il 1936 arrivarono tempi davvero difficili. Quasi mille tra monaci e novizi che mi seguivano furono costretti a lasciare i voti. La vicenda si chiuse solo il 21 aprile 1936, con la firma di un giuramento. Parole come "riforma" o "resistenza" non bastano a descriverlo — fu qualcosa che sconvolse la vita di mille persone.
+
+Proprio nel mezzo di quel turbine, il 1° novembre 1935, fui arrestato proprio in questo tempio. Si racconta che il giorno del blitz delle autorità, alcuni giovani novizi si nascosero sotto l'altare della Sala Lai Kham. Uno di loro se lo ricorderà in seguito — rannicchiato in quello spazio buio e stretto sotto l'altare, trattenendo il respiro, aspettando che i passi si allontanassero.
+
+Vissi ancora qualche anno dopo quei fatti, e morii nel 1938. Ma ecco una cosa interessante: se oggi visiti la sala principale, troverai un ritratto di Dara Rasami appeso proprio accanto ai membri maschi della famiglia reale. La gente chiama me simbolo della resistenza e lei custode della tradizione, ma alla fine, lei e io finiamo per condividere in silenzio la stessa sala.
+
+Ah, un'ultima cosa — dopo la mia morte, le mie reliquie furono divise in sette parti e custodite in luoghi diversi. Una di queste si trova a Wat Suan Dok. Se hai in programma di visitarlo, anche lì potrai ascoltare altro della mia storia.
