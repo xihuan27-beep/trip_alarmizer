@@ -3,6 +3,7 @@ import SwiftUI
 struct SitePopupView: View {
     let site: HistoricalSite
     @ObservedObject private var audioPlayer = AudioPlayerManager.shared
+    @State private var expandedSectionID: String?
 
     var body: some View {
         ScrollView {
@@ -58,6 +59,22 @@ struct SitePopupView: View {
                     .lineSpacing(4)
                     .fixedSize(horizontal: false, vertical: true)
 
+                if !site.sections.isEmpty {
+                    VStack(alignment: .leading, spacing: 8) {
+                        sectionHeader("둘러보기", systemImage: "list.bullet")
+                        VStack(spacing: 10) {
+                            ForEach(site.sections) { section in
+                                SectionRow(
+                                    site: site,
+                                    section: section,
+                                    isExpanded: expandedSectionID == section.id,
+                                    onToggle: { toggleSection(section.id) }
+                                )
+                            }
+                        }
+                    }
+                }
+
                 if !site.keywords.isEmpty {
                     VStack(alignment: .leading, spacing: 8) {
                         sectionHeader("핵심 키워드", systemImage: "number")
@@ -105,6 +122,91 @@ struct SitePopupView: View {
         Label(title, systemImage: systemImage)
             .font(.headline)
             .foregroundStyle(.orange)
+    }
+
+    private func toggleSection(_ id: String) {
+        expandedSectionID = (expandedSectionID == id) ? nil : id
+    }
+}
+
+/// One row in a multi-building site's "둘러보기" list — collapsed it shows
+/// just the building's name and a one-line hook; tapping expands it to the
+/// full story plus its own independent play/pause control, so a visitor
+/// standing in front of one building only has to deal with that building's
+/// worth of information at a time.
+private struct SectionRow: View {
+    let site: HistoricalSite
+    let section: SiteSection
+    let isExpanded: Bool
+    let onToggle: () -> Void
+
+    @ObservedObject private var audioPlayer = AudioPlayerManager.shared
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 12) {
+            Button(action: onToggle) {
+                HStack(alignment: .top, spacing: 10) {
+                    VStack(alignment: .leading, spacing: 3) {
+                        Text(section.title)
+                            .font(.subheadline.weight(.semibold))
+                            .foregroundStyle(.primary)
+                        Text(section.teaser)
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                            .lineLimit(isExpanded ? nil : 2)
+                    }
+                    Spacer()
+                    Image(systemName: "chevron.down")
+                        .font(.caption.weight(.bold))
+                        .foregroundStyle(.secondary)
+                        .rotationEffect(.degrees(isExpanded ? 180 : 0))
+                }
+            }
+            .buttonStyle(.plain)
+
+            if isExpanded {
+                Text(section.story)
+                    .font(.callout)
+                    .lineSpacing(3)
+                    .fixedSize(horizontal: false, vertical: true)
+
+                if !section.audioURLs.isEmpty {
+                    audioButton
+                }
+            }
+        }
+        .padding(12)
+        .background(Color.orange.opacity(0.07), in: RoundedRectangle(cornerRadius: 12))
+    }
+
+    private var isThisSectionPlaying: Bool {
+        audioPlayer.playingSiteID == site.id && audioPlayer.playingSectionID == section.id && audioPlayer.isPlaying
+    }
+
+    private var isThisSectionPaused: Bool {
+        audioPlayer.playingSiteID == site.id && audioPlayer.playingSectionID == section.id && !audioPlayer.isPlaying
+    }
+
+    private var audioButton: some View {
+        Button {
+            if isThisSectionPlaying {
+                audioPlayer.pause()
+            } else if isThisSectionPaused {
+                audioPlayer.resume()
+            } else {
+                audioPlayer.play(site: site, section: section)
+            }
+        } label: {
+            Label(
+                isThisSectionPlaying ? "일시정지" : (isThisSectionPaused ? "이어서 듣기" : "이 건물 오디오 듣기"),
+                systemImage: isThisSectionPlaying ? "pause.circle.fill" : "play.circle.fill"
+            )
+            .font(.subheadline.weight(.semibold))
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 8)
+        }
+        .buttonStyle(.bordered)
+        .tint(.orange)
     }
 }
 

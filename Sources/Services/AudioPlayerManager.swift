@@ -23,6 +23,9 @@ final class AudioPlayerManager: NSObject, ObservableObject {
 
     @Published private(set) var isPlaying = false
     @Published private(set) var playingSiteID: String?
+    /// The section currently playing, or nil when it's the site's own
+    /// overview audio (not one of its sections) that's playing.
+    @Published private(set) var playingSectionID: String?
 
     private var player: AVPlayer?
     private var endObserver: NSObjectProtocol?
@@ -42,18 +45,28 @@ final class AudioPlayerManager: NSObject, ObservableObject {
         }
     }
 
-    /// Starts playing `site`'s narration in `language`, falling back to
-    /// English and then any available language if that one is missing.
+    /// Starts playing `site`'s overview narration in `language`, falling
+    /// back to English and then any available language if that one is missing.
     func play(site: HistoricalSite, language: NarrationLanguage = .deviceDefault) {
-        let url = resolvedURL(for: site, preferred: language)
-        guard let url else { return }
+        play(urls: site.audioURLs, siteID: site.id, sectionID: nil, language: language)
+    }
+
+    /// Starts playing one `section` of `site` (e.g. a single building's
+    /// narration), independently of the site's own overview audio.
+    func play(site: HistoricalSite, section: SiteSection, language: NarrationLanguage = .deviceDefault) {
+        play(urls: section.audioURLs, siteID: site.id, sectionID: section.id, language: language)
+    }
+
+    private func play(urls: [String: String], siteID: String, sectionID: String?, language: NarrationLanguage) {
+        guard let url = resolvedURL(from: urls, preferred: language) else { return }
 
         stop()
 
         let item = AVPlayerItem(url: url)
         let newPlayer = AVPlayer(playerItem: item)
         player = newPlayer
-        playingSiteID = site.id
+        playingSiteID = siteID
+        playingSectionID = sectionID
 
         endObserver = NotificationCenter.default.addObserver(
             forName: .AVPlayerItemDidPlayToEndTime,
@@ -82,20 +95,21 @@ final class AudioPlayerManager: NSObject, ObservableObject {
         player = nil
         isPlaying = false
         playingSiteID = nil
+        playingSectionID = nil
         if let endObserver {
             NotificationCenter.default.removeObserver(endObserver)
             self.endObserver = nil
         }
     }
 
-    private func resolvedURL(for site: HistoricalSite, preferred: NarrationLanguage) -> URL? {
-        if let urlString = site.audioURLs[preferred.rawValue], let url = URL(string: urlString) {
+    private func resolvedURL(from urls: [String: String], preferred: NarrationLanguage) -> URL? {
+        if let urlString = urls[preferred.rawValue], let url = URL(string: urlString) {
             return url
         }
-        if let urlString = site.audioURLs["en"], let url = URL(string: urlString) {
+        if let urlString = urls["en"], let url = URL(string: urlString) {
             return url
         }
-        guard let firstAvailable = site.audioURLs.values.first else { return nil }
+        guard let firstAvailable = urls.values.first else { return nil }
         return URL(string: firstAvailable)
     }
 }

@@ -27,7 +27,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_chiang_man/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_phra_singh",
@@ -56,7 +57,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_phra_singh/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_chedi_luang",
@@ -68,7 +70,7 @@
     "category": "사원",
     "yearBuilt": "14세기 말~15세기",
     "teaser": "번개 맞아 죽은 왕의 전설과, 반쪽만 남은 80m짜리 탑.",
-    "story": "완공 당시 높이가 80m를 넘었다는 이 거대한 불탑은 한때 지금의 에메랄드 불상을 모셨던, 란나 왕국에서 가장 신성한 건물이었어요. 탑 밑동을 자세히 보시면 코끼리 조각상들이 빙 둘러 탑을 떠받치고 있는 걸 볼 수 있는데, 원래는 28마리가 온전히 도열해 있었다고 해요. 지금 남쪽 면에 남은 다섯 마리 중에서도 맨 오른쪽 한 마리만 옛 벽돌과 회반죽 그대로인 진짜고, 나머지는 훗날 복원한 거랍니다. 코끼리는 란나 불교에서 힘과 장수, 왕권을 상징하는 동물이라 탑을 지키는 수호수로 세운 거예요.\n\n탑의 네 면에는 각기 다른 불상이 모셔진 감실이 있어요. 정면인 동쪽 감실에는 검은 옥으로 만든 에메랄드 불상 복제품이 자리하고 있는데, 이건 1995년 이 탑 건립 600주년을 기념해 새로 봉안한 거예요. 실제 에메랄드 불상은 한때 이 탑에 모셔져 있다가 지금은 여러 나라를 거쳐 방콕 왕궁에 있죠. 나머지 세 면에도 각기 다른 이름을 가진 불상들이 따로 모셔져 있어서, 탑 하나를 네 바퀴 돌면 네 번 다른 부처님을 뵙는 셈이 됩니다.\n\n그런데 지금 탑 위쪽을 보시면 뭉텅 잘려나가 있죠? 1545년 대지진 때문이에요. 공교롭게도 같은 해, 한국에서는 을사사화가 일어나 조정이 피바람에 휩싸였습니다. 반쪽짜리 탑이 된 이곳처럼, 그해는 여러 나라에서 뭔가가 무너지던 해였던 셈이죠.\n\n이 절에는 탑 말고도 볼거리가 많아요. 탑 앞의 커다란 법당 '위한 루앙'에는 14세기 후반에 만들어진 청동 입상 '프라 앗타롯'이 서 있는데, 높이가 사람 키의 열 배에 가까운 거대한 불상이에요. 두려움을 없애준다는 손짓(시무외인)을 하고 있죠. 절 마당 한쪽에는 도시 수호 기둥 '인타킨'을 모신 작은 사당도 있는데, 라와족 신화에 따르면 옛날 이 도시가 침략당했을 때 인드라 신이 이 기둥을 내려줘서 침략군들이 전부 상인으로 변해버렸다고 해요. 싸움이 아니라 장사로 끝난, 꽤 평화로운 결말의 신화죠. 사당 주변에는 수백 년 된 거대한 얀 나무 세 그루가 서 있는데, 지역 주민들은 이 나무들이 도시를 지키는 수호목이라고 믿습니다. 더 드라마틱한 전설도 있어요 — 이 도시를 세운 망라이 왕 본인이, 1317년 바로 이 근처 시장에서 벼락을 맞아 죽었다는 겁니다. 그리고 사람들은 그가 죽어서 도시의 수호신이 되었다고 믿었어요. 왕이 도시를 지키다 못해 죽어서까지 지킨다는, 조금 무섭고도 애틋한 이야기예요.\n\n지금도 이 절 마당에서는 매일 '몽크 챗'이라는 프로그램이 열려서, 방문객이 승려 견습생들과 자유롭게 대화하며 불교와 태국 문화에 대해 궁금한 걸 물어볼 수 있습니다.",
+    "story": "이 절은 완공 당시 80m가 넘었던 거대한 불탑을 중심으로, 여러 시대에 걸쳐 세워진 건물들이 모인 사원이에요. 대지진으로 반쯤 무너진 채 남은 대탑, 거대한 청동 불상을 모신 위한 루앙, 도시 수호 기둥을 모신 인타킨 사당 — 이렇게 세 곳을 둘러보시면 좋습니다. 지금 서 계신 곳에 맞춰 아래에서 골라 들어보세요.",
     "keywords": [
       "대불탑",
       "인타킨기둥",
@@ -86,7 +88,36 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/ru.mp3"
-    }
+    },
+    "sections": [
+      {
+        "id": "main_chedi",
+        "title": "대탑 (체디 루앙)",
+        "teaser": "코끼리 28마리가 지키던 80m 탑, 지진으로 반쪽만 남았어요.",
+        "story": "완공 당시 높이가 80m를 넘었다는 이 거대한 불탑은 한때 진짜 에메랄드 불상을 모셨던, 란나 왕국에서 가장 신성한 건물이었어요. 탑 밑동을 자세히 보시면 코끼리 조각상들이 빙 둘러 탑을 떠받치고 있는 걸 볼 수 있는데, 원래는 28마리가 온전히 도열해 있었다고 해요. 지금 남쪽 면에 남은 다섯 마리 중에서도 맨 오른쪽 한 마리만 옛 벽돌과 회반죽 그대로인 진짜고, 나머지는 훗날 복원한 거랍니다. 코끼리는 란나 불교에서 힘과 장수, 왕권을 상징하는 동물이라 탑을 지키는 수호수로 세운 거예요.\n\n탑의 네 면에는 각기 다른 불상이 모셔진 감실이 있어요. 정면인 동쪽 감실에는 검은 옥으로 만든 에메랄드 불상 복제품이 자리하고 있는데, 이건 1995년 이 탑 건립 600주년을 기념해 새로 봉안한 거예요. 실제 에메랄드 불상은 한때 이 탑에 모셔져 있다가 지금은 여러 나라를 거쳐 방콕 왕궁에 있죠. 나머지 세 면에도 각기 다른 이름을 가진 불상들이 따로 모셔져 있어서, 탑 하나를 네 바퀴 돌면 네 번 다른 부처님을 뵙는 셈이 됩니다.\n\n그런데 지금 탑 위쪽을 보시면 뭉텅 잘려나가 있죠? 1545년 대지진 때문이에요. 공교롭게도 같은 해, 한국에서는 을사사화가 일어나 조정이 피바람에 휩싸였습니다. 반쪽짜리 탑이 된 이곳처럼, 그해는 여러 나라에서 뭔가가 무너지던 해였던 셈이죠. 더 드라마틱한 전설도 있어요 — 이 도시를 세운 망라이 왕 본인이, 1317년 바로 이 근처 시장에서 벼락을 맞아 죽었다는 겁니다. 그리고 사람들은 그가 죽어서 도시의 수호신이 되었다고 믿었어요. 왕이 도시를 지키다 못해 죽어서까지 지킨다는, 조금 무섭고도 애틋한 이야기예요.",
+        "audioURLs": {
+          "ko": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/sections/main_chedi/ko.mp3"
+        }
+      },
+      {
+        "id": "wihan_luang",
+        "title": "위한 루앙",
+        "teaser": "사람 키의 열 배, 온전한 모습 그대로인 청동 불상이 있어요.",
+        "story": "대탑 앞에 서 있는 이 커다란 법당은 1928년에 지어졌어요. 안에는 14세기 후반에 만들어진 청동 입상 '프라 앗타롯'이 모셔져 있는데, 높이가 사람 키의 열 배에 가까운 거대한 불상입니다. 손을 들어 올려 두려움을 없애준다는 뜻을 담은 '시무외인' 자세를 하고 있죠.\n\n대탑이 반쯤 무너진 채 남아있는 것과 달리, 이 법당의 불상만큼은 처음 모습 그대로 지금까지 참배객들을 맞이하고 있어요. 왓 체디 루앙을 찾는 사람들은 대부분 이 법당에 먼저 들러 두 손을 모으고, 그다음 대탑을 한 바퀴 도는 순서로 참배합니다.",
+        "audioURLs": {
+          "ko": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/sections/wihan_luang/ko.mp3"
+        }
+      },
+      {
+        "id": "inthakhin_shrine",
+        "title": "인타킨 사당",
+        "teaser": "침략군을 상인으로 바꿔버린 신화 속 도시 수호 기둥.",
+        "story": "절 마당 한쪽에는 도시 수호 기둥 '인타킨'을 모신 작은 사당이 있어요. 라와족 신화에 따르면 옛날 이 도시가 침략당했을 때 인드라 신이 이 기둥을 내려줘서, 침략군들이 전부 상인으로 변해버렸다고 해요. 싸움이 아니라 장사로 끝난, 꽤 평화로운 결말의 신화죠.\n\n이 기둥은 원래 다른 절, 왓 사두 므앙에 있었는데, 1800년 카윌라왕이 이곳으로 옮겨왔습니다. 완전하지 않은 탑을 가진 이 절이, 그날 이후 오히려 도시에서 가장 신성한 자리를 얻게 된 셈이에요. 지금도 이 인타킨 기둥은 도이수텝의 유물, 프라싱 불상과 함께 치앙마이의 3대 신성한 대상으로 꼽힙니다. 사당 주변에는 수백 년 된 거대한 얀 나무 세 그루가 서 있는데, 지역 주민들은 이 나무들이 도시를 지키는 수호목이라고 믿습니다.\n\n1960년대에는 시청이 인타킨 의식을 공식적으로 맡게 되면서, 원래 함께 있던 영매 관련 요소들은 짼 스리 품이라는 곳으로 따로 옮겨졌어요. 하나였던 의식이, 시간이 지나며 공식적인 불교 의례와 민간의 영매 신앙, 두 갈래로 나뉜 셈이죠.\n\n지금도 이 마당에서는 매일 '몽크 챗'이라는 프로그램이 열려서, 방문객이 승려 견습생들과 자유롭게 대화하며 불교와 태국 문화에 대해 궁금한 걸 물어볼 수 있습니다.",
+        "audioURLs": {
+          "ko": "https://chiangmai-audio.b-cdn.net/wat_chedi_luang/sections/inthakhin_shrine/ko.mp3"
+        }
+      }
+    ]
   },
   {
     "id": "three_kings_monument",
@@ -115,7 +146,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/three_kings_monument/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/three_kings_monument/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/three_kings_monument/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "tha_phae_gate",
@@ -144,7 +176,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/tha_phae_gate/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "doi_suthep",
@@ -174,7 +207,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/doi_suthep/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/doi_suthep/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/doi_suthep/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_pha_lat",
@@ -203,7 +237,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_pha_lat/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_umong",
@@ -232,7 +267,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_umong/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_umong/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_umong/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_pa_daeng_ruins",
@@ -261,7 +297,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_pa_daeng_ruins/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_suan_dok",
@@ -291,7 +328,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_suan_dok/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_chet_yot",
@@ -321,7 +359,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_chet_yot/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "jaeng_sri_phum",
@@ -350,7 +389,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/jaeng_sri_phum/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "pratu_saen_pung",
@@ -379,7 +419,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/pratu_saen_pung/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "suan_dok_gate",
@@ -408,7 +449,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/suan_dok_gate/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "chang_puak_gate",
@@ -437,7 +479,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/chang_puak_gate/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "chiang_mai_gate",
@@ -465,7 +508,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/chiang_mai_gate/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_ku_tao",
@@ -493,7 +537,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_ku_tao/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "warorot_market",
@@ -521,7 +566,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/warorot_market/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/warorot_market/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/warorot_market/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "nawarat_bridge",
@@ -549,7 +595,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/nawarat_bridge/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "first_church_chiang_mai",
@@ -578,7 +625,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/first_church_chiang_mai/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "ban_ho_mosque",
@@ -596,7 +644,8 @@
       "나이트바자의기원"
     ],
     "photos": [],
-    "audioURLs": {}
+    "audioURLs": {},
+    "sections": []
   },
   {
     "id": "british_consulate_site",
@@ -614,7 +663,8 @@
       "외교적블러핑"
     ],
     "photos": [],
-    "audioURLs": {}
+    "audioURLs": {},
+    "sections": []
   },
   {
     "id": "ubon_wanna_residence",
@@ -643,7 +693,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/ubon_wanna_residence/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_sri_suphan",
@@ -672,7 +723,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_sri_suphan/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "mae_kha_canal",
@@ -691,7 +743,8 @@
       "도시재생"
     ],
     "photos": [],
-    "audioURLs": {}
+    "audioURLs": {},
+    "sections": []
   },
   {
     "id": "wiang_kum_kam",
@@ -720,7 +773,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wiang_kum_kam/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "old_lamphun_road",
@@ -748,7 +802,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/old_lamphun_road/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "wat_phra_that_hariphunchai",
@@ -777,7 +832,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/wat_phra_that_hariphunchai/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "dara_phirom_palace",
@@ -806,7 +862,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/dara_phirom_palace/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "cmu_reservoir",
@@ -824,7 +881,8 @@
       "캄댕왕자"
     ],
     "photos": [],
-    "audioURLs": {}
+    "audioURLs": {},
+    "sections": []
   },
   {
     "id": "chet_lin",
@@ -853,7 +911,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/chet_lin/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/chet_lin/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/chet_lin/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "doi_chiang_dao",
@@ -872,7 +931,8 @@
       "도시운명연장의식"
     ],
     "photos": [],
-    "audioURLs": {}
+    "audioURLs": {},
+    "sections": []
   },
   {
     "id": "san_pa_tong",
@@ -901,7 +961,8 @@
       "fr": "https://chiangmai-audio.b-cdn.net/san_pa_tong/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/san_pa_tong/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/san_pa_tong/ru.mp3"
-    }
+    },
+    "sections": []
   },
   {
     "id": "doi_inthanon",
@@ -929,6 +990,7 @@
       "fr": "https://chiangmai-audio.b-cdn.net/doi_inthanon/fr.mp3",
       "it": "https://chiangmai-audio.b-cdn.net/doi_inthanon/it.mp3",
       "ru": "https://chiangmai-audio.b-cdn.net/doi_inthanon/ru.mp3"
-    }
+    },
+    "sections": []
   }
 ]
